@@ -1,0 +1,1314 @@
+ID	strain	group	compartment	host	tax	nifh	genome_size	genes	taxonomy
+3038	ORS 571	public	Nodule	Legume	Azorhizobium	TRUE	5369772	4810	Other
+3039	UFLA1-100	public	Nodule	Legume	Azorhizobium	TRUE	5816562	5339	Other
+3046	USDA110	public	Nodule	Legume	Bradyrhizobium	TRUE	9105828	8498	Bradyrhizobium
+3118	SEMIA 5080	public	Nodule	Legume	Bradyrhizobium	TRUE	9085533	8479	Bradyrhizobium
+3104	USDA 122	public	Nodule	Legume	Bradyrhizobium	TRUE	8976980	8424	Bradyrhizobium
+3134	Is-1	public	Nodule	Legume	Bradyrhizobium	TRUE	8983878	8402	Bradyrhizobium
+3117	SEMIA 5080	public	Nodule	Legume	Bradyrhizobium	TRUE	8951550	8372	Bradyrhizobium
+3093	WSM2254	public	Nodule	Legume	Bradyrhizobium	TRUE	9086516	8517	Bradyrhizobium
+3107	CB756	public	Nodule	Legume	Bradyrhizobium	TRUE	9826880	9213	Bradyrhizobium
+3094	USDA 3384	public	Nodule	Legume	Bradyrhizobium	TRUE	9800269	9230	Bradyrhizobium
+3080	USDA 124	public	Nodule	Legume	Bradyrhizobium	TRUE	9002274	8508	Bradyrhizobium
+3108	22	public	Nodule	Legume	Bradyrhizobium	TRUE	7504559	7093	Bradyrhizobium
+3116	DOA9	public	Nodule	Legume	Bradyrhizobium	TRUE	7836549	7325	Bradyrhizobium
+3136	BR3267	public	Nodule	Legume	Bradyrhizobium	TRUE	7904309	7352	Bradyrhizobium
+3106	WSM1743	public	Nodule	Legume	Bradyrhizobium	TRUE	8341956	7884	Bradyrhizobium
+3088	in8p8	public	Nodule	Legume	Bradyrhizobium	FALSE	7589915	7274	Bradyrhizobium
+3083	is5	public	Nodule	Legume	Bradyrhizobium	FALSE	7588794	7281	Bradyrhizobium
+2004	Leaf396	atsphere	Leaf	Arabidopsis	Bradyrhizobium	FALSE	7709278	7346	Bradyrhizobium
+3053	WSM471	public	Nodule	Legume	Bradyrhizobium	TRUE	7784016	7287	Bradyrhizobium
+3079	WSM4349	public	Nodule	Legume	Bradyrhizobium	TRUE	8294334	8024	Bradyrhizobium
+3054	WSM1253	public	Nodule	Legume	Bradyrhizobium	TRUE	8719808	8276	Bradyrhizobium
+3114	URHA0013	public	Nodule	Legume	Bradyrhizobium	FALSE	7193102	6866	Bradyrhizobium
+3113	WSM1417	public	Nodule	Legume	Bradyrhizobium	TRUE	8048963	7617	Bradyrhizobium
+3127	LTSP857	public	Nodule	Legume	Bradyrhizobium	FALSE	8425324	7901	Bradyrhizobium
+3126	LTSP849	public	Nodule	Legume	Bradyrhizobium	FALSE	8569239	8024	Bradyrhizobium
+3075	S23321	public	Nodule	Legume	Bradyrhizobium	TRUE	7231841	6834	Bradyrhizobium
+3076	USDA 6	public	Nodule	Legume	Bradyrhizobium	TRUE	9207384	8701	Bradyrhizobium
+3122	E109	public	Nodule	Legume	Bradyrhizobium	TRUE	9224208	8672	Bradyrhizobium
+3129	FN1	public	Nodule	Legume	Bradyrhizobium	TRUE	9134728	8612	Bradyrhizobium
+3102	USDA 6	public	Nodule	Legume	Bradyrhizobium	TRUE	9131141	8641	Bradyrhizobium
+3119	SEMIA 5079	public	Nodule	Legume	Bradyrhizobium	TRUE	9583027	9102	Bradyrhizobium
+3096	USDA 38	public	Nodule	Legume	Bradyrhizobium	TRUE	9608975	9144	Bradyrhizobium
+3082	WSM2793	public	Nodule	Legume	Bradyrhizobium	TRUE	8871253	8328	Bradyrhizobium
+3095	USDA 4	public	Nodule	Legume	Bradyrhizobium	TRUE	8737671	8161	Bradyrhizobium
+3105	WSM3983	public	Nodule	Legume	Bradyrhizobium	TRUE	8789602	8381	Bradyrhizobium
+3138	BR3351	public	Nodule	Legume	Bradyrhizobium	TRUE	9139682	8731	Bradyrhizobium
+3086	Cp5.3	public	Nodule	Legume	Bradyrhizobium	TRUE	8918781	8467	Bradyrhizobium
+3099	Ec3.3	public	Nodule	Legume	Bradyrhizobium	TRUE	10034502	9643	Bradyrhizobium
+3048	ORS278	public	Nodule	Legume	Bradyrhizobium	TRUE	7456587	6674	Bradyrhizobium
+3049	ORS285	public	Nodule	Legume	Bradyrhizobium	TRUE	7586789	6748	Bradyrhizobium
+3078	S58	public	Nodule	Legume	Bradyrhizobium	TRUE	8264165	7164	Bradyrhizobium
+3047	BTAi1	public	Nodule	Legume	Bradyrhizobium	TRUE	8493513	7671	Bradyrhizobium
+3092	Tv2a-2	public	Nodule	Legume	Bradyrhizobium	TRUE	8496279	8098	Bradyrhizobium
+3091	ARR65	public	Nodule	Legume	Bradyrhizobium	TRUE	8613869	8215	Bradyrhizobium
+3081	USDA 76	public	Nodule	Legume	Bradyrhizobium	TRUE	9484767	8964	Bradyrhizobium
+3115	USDA 94	public	Nodule	Legume	Bradyrhizobium	TRUE	9558895	9046	Bradyrhizobium
+3131	PAC 48	public	Nodule	Legume	Bradyrhizobium	TRUE	8693460	8203	Bradyrhizobium
+3097	USDA 3254	public	Nodule	Legume	Bradyrhizobium	TRUE	8979722	8475	Bradyrhizobium
+3103	USDA 3259	public	Nodule	Legume	Bradyrhizobium	TRUE	8722461	8242	Bradyrhizobium
+3137	BR3262	public	Nodule	Legume	Bradyrhizobium	TRUE	8962729	8398	Bradyrhizobium
+3130	SEMIA 6208	public	Nodule	Legume	Bradyrhizobium	TRUE	8206436	7815	Bradyrhizobium
+3112	OHSU_III	public	Nodule	Legume	Bradyrhizobium	FALSE	7927081	7378	Bradyrhizobium
+3123	UASWS1015	public	Nodule	Legume	Bradyrhizobium	FALSE	7780644	7269	Bradyrhizobium
+3090	NA	public	Nodule	Legume	Bradyrhizobium	FALSE	7646147	7111	Bradyrhizobium
+3133	SEMIA 690	public	Nodule	Legume	Bradyrhizobium	TRUE	8797166	8810	Bradyrhizobium
+3132	SEMIA 6148	public	Nodule	Legume	Bradyrhizobium	TRUE	9761227	9377	Bradyrhizobium
+3128	LTSP885	public	Nodule	Legume	Bradyrhizobium	FALSE	7851216	7260	Bradyrhizobium
+3125	LTSPM299	public	Nodule	Legume	Bradyrhizobium	FALSE	9090422	8525	Bradyrhizobium
+3098	WSM2783	public	Nodule	Legume	Bradyrhizobium	TRUE	9902361	9634	Bradyrhizobium
+3085	Ai1a-2	public	Nodule	Legume	Bradyrhizobium	TRUE	9029266	8484	Bradyrhizobium
+3101	WSM1741	public	Nodule	Legume	Bradyrhizobium	TRUE	7952346	7568	Bradyrhizobium
+3142	Ro19	public	Nodule	Legume	Bradyrhizobium	TRUE	8466225	8344	Bradyrhizobium
+3143	CCBAU 23086	public	Nodule	Legume	Bradyrhizobium	TRUE	8817291	8553	Bradyrhizobium
+3139	LmjM6	public	Nodule	Legume	Bradyrhizobium	TRUE	9146476	8929	Bradyrhizobium
+3141	LmjM3	public	Nodule	Legume	Bradyrhizobium	TRUE	8845258	8740	Bradyrhizobium
+3084	URHA0002	public	Nodule	Legume	Bradyrhizobium	FALSE	6972827	6746	Bradyrhizobium
+3245	PA1	public	Nodule	Legume	Methylobacterium	FALSE	5471154	4983	Methylobacteriaceae
+2033	Leaf119	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5423799	4977	Methylobacteriaceae
+2041	Leaf121	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5528490	5134	Methylobacteriaceae
+3251	AM1	public	Nodule	Legume	Methylobacterium	FALSE	6879778	6486	Methylobacteriaceae
+2035	Leaf122	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5516691	5182	Methylobacteriaceae
+2023	Leaf92	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5453864	5094	Methylobacteriaceae
+3249	CM4	public	Nodule	Legume	Methylobacterium	FALSE	6180732	5700	Methylobacteriaceae
+3252	DM4	public	Nodule	Legume	Methylobacterium	FALSE	6123851	5764	Methylobacteriaceae
+2022	Leaf90	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5671203	5286	Methylobacteriaceae
+2042	Leaf123	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5437666	5037	Methylobacteriaceae
+3248	BJ001	public	Nodule	Legume	Methylobacterium	FALSE	5848997	5446	Methylobacteriaceae
+3257	MB200	public	Nodule	Legume	Methylobacterium	FALSE	5760753	5372	Methylobacteriaceae
+2047	Leaf456	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5577040	5295	Methylobacteriaceae
+3267	CBMB20	public	Nodule	Legume	Methylobacterium	FALSE	6286629	5806	Methylobacteriaceae
+3266	UNCCL110	public	Nodule	Legume	Methylobacterium	FALSE	6613608	6379	Methylobacteriaceae
+3265	EUR3 AL-11	public	Nodule	Legume	Methylobacterium	FALSE	7209506	6831	Methylobacteriaceae
+3247	JCM 2831	public	Nodule	Legume	Methylobacterium	FALSE	6899110	6504	Methylobacteriaceae
+3270	ME121	public	Nodule	Legume	Methylobacterium	FALSE	7083539	6747	Methylobacteriaceae
+3262	285MFTsu5.1	public	Nodule	Legume	Methylobacterium	FALSE	6628554	6314	Methylobacteriaceae
+2043	Leaf361	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	6849062	6608	Methylobacteriaceae
+3258	SR1.6/6	public	Nodule	Legume	Methylobacterium	FALSE	6214449	5977	Methylobacteriaceae
+3277	ARG-1	public	Nodule	Legume	Methylobacterium	FALSE	6289914	6155	Methylobacteriaceae
+3254	GXF4	public	Nodule	Legume	Methylobacterium	FALSE	6107791	5922	Methylobacteriaceae
+3259	77	public	Nodule	Legume	Methylobacterium	FALSE	4664957	4270	Methylobacteriaceae
+3260	88A	public	Nodule	Legume	Methylobacterium	FALSE	4889301	4531	Methylobacteriaceae
+2032	Leaf106	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4759318	4442	Methylobacteriaceae
+2019	Leaf85	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5143223	4823	Methylobacteriaceae
+2024	Leaf93	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4746437	4420	Methylobacteriaceae
+3264	10	public	Nodule	Legume	Methylobacterium	FALSE	4982370	4608	Methylobacteriaceae
+2020	Leaf86	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5303880	4987	Methylobacteriaceae
+2029	Leaf91	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5260378	4961	Methylobacteriaceae
+2025	Leaf99	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4645412	4351	Methylobacteriaceae
+2039	Leaf112	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4693153	4444	Methylobacteriaceae
+2026	Leaf102	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4659682	4360	Methylobacteriaceae
+2046	Leaf469	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4700855	4439	Methylobacteriaceae
+2030	Leaf100	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4716235	4444	Methylobacteriaceae
+2027	Leaf87	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4982392	4657	Methylobacteriaceae
+2021	Leaf89	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5005286	4661	Methylobacteriaceae
+2045	Leaf465	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5055478	4703	Methylobacteriaceae
+2028	Leaf88	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5031274	4701	Methylobacteriaceae
+2038	Leaf111	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5166228	4834	Methylobacteriaceae
+2049	Leaf94	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5247959	4949	Methylobacteriaceae
+2036	Leaf125	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5452632	5089	Methylobacteriaceae
+2031	Leaf104	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4968001	4648	Methylobacteriaceae
+2034	Leaf117	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5320575	4966	Methylobacteriaceae
+2040	Leaf113	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	5151901	4760	Methylobacteriaceae
+2037	Leaf108	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4465775	4098	Methylobacteriaceae
+2044	Leaf399	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4456718	4103	Methylobacteriaceae
+2048	Leaf466	atsphere	Leaf	Arabidopsis	Methylobacterium	FALSE	4300541	3997	Methylobacteriaceae
+3246	4-46	public	Nodule	Legume	Methylobacterium	TRUE	7737025	6992	Methylobacteriaceae
+3261	WSM2598	public	Nodule	Legume	Methylobacterium	TRUE	7669765	7094	Methylobacteriaceae
+3250	ORS 2060	public	Nodule	Legume	Methylobacterium	TRUE	8839022	8636	Methylobacteriaceae
+2000	Leaf344	atsphere	Leaf	Arabidopsis	Bosea	FALSE	4350923	4033	Bradyrhizobium
+2001	Root381	atsphere	Root	Arabidopsis	Bosea	FALSE	5690728	5328	Bradyrhizobium
+3043	ASM129592v1	public	Nodule	Legume	Bosea	FALSE	4461984	4237	Bradyrhizobium
+3044	ASM129826v1	public	Nodule	Legume	Bosea	FALSE	5593355	5428	Bradyrhizobium
+4446	AIM012653	agbiome	Other	Other	Bosea	FALSE	5550012	5360	Bradyrhizobium
+2003	Root483D1	atsphere	Root	Arabidopsis	Bosea	FALSE	6609529	6216	Bradyrhizobium
+3041	ASM73560v1	public	Nodule	Legume	Bosea	FALSE	6555916	6225	Bradyrhizobium
+4832	AIM017987	agbiome	Soil	Soil	Bosea	FALSE	7177180	7030	Bradyrhizobium
+3042	ASM74547v1	public	Nodule	Legume	Bosea	FALSE	5613335	5271	Bradyrhizobium
+4606	AIM014448	agbiome	Root	Cotton	Bosea	FALSE	5548652	5219	Bradyrhizobium
+4508	AIM013166	agbiome	Other	Corn	Bosea	FALSE	5575991	5326	Bradyrhizobium
+2002	Root670	atsphere	Root	Arabidopsis	Bosea	FALSE	5365412	5139	Bradyrhizobium
+4843	AIM020268	agbiome	Root	Soybean	Bosea	FALSE	5530250	5502	Bradyrhizobium
+3045	ASM142031v1	public	Nodule	Legume	Bosea	FALSE	5454810	5181	Bradyrhizobium
+4719	AIM015205	agbiome	Root	Other	Bosea	FALSE	6019106	5652	Bradyrhizobium
+4774	AIM015654	agbiome	Other	Oats	Bosea	FALSE	4471934	4250	Bradyrhizobium
+4776	AIM015659	agbiome	Other	Oats	Bosea	FALSE	4489033	4231	Bradyrhizobium
+4771	AIM015651	agbiome	Other	Oats	Bosea	FALSE	4472834	4256	Bradyrhizobium
+4772	AIM015652	agbiome	Other	Oats	Bosea	FALSE	4451829	4279	Bradyrhizobium
+4773	AIM015653	agbiome	Other	Oats	Bosea	FALSE	4435580	4321	Bradyrhizobium
+4770	AIM015650	agbiome	Other	Oats	Bosea	FALSE	4421084	4364	Bradyrhizobium
+4775	AIM015658	agbiome	Other	Oats	Bosea	FALSE	4314335	4513	Bradyrhizobium
+3156	H5989	public	Nodule	Legume	Devosia	FALSE	4594249	4500	Hyphomicrobiaceae
+3144	DDB001	public	Nodule	Legume	Devosia	FALSE	4661722	4555	Hyphomicrobiaceae
+3146	17-2-E-8	public	Nodule	Legume	Devosia	FALSE	4656421	4554	Hyphomicrobiaceae
+3148	BD-c194	public	Nodule	Legume	Devosia	FALSE	4437225	4289	Hyphomicrobiaceae
+3149	IPL18	public	Nodule	Legume	Devosia	FALSE	3449680	3293	Hyphomicrobiaceae
+2011	Root685	atsphere	Root	Arabidopsis	Devosia	FALSE	4397626	4115	Hyphomicrobiaceae
+3147	IFO13584	public	Nodule	Legume	Devosia	FALSE	5008572	4920	Hyphomicrobiaceae
+2008	Leaf420	atsphere	Leaf	Arabidopsis	Devosia	FALSE	4219601	4031	Hyphomicrobiaceae
+2005	Leaf64	atsphere	Leaf	Arabidopsis	Devosia	FALSE	4252528	4085	Hyphomicrobiaceae
+3151	GH2-10	public	Nodule	Legume	Devosia	FALSE	4122173	4046	Hyphomicrobiaceae
+3154	HST3-14	public	Nodule	Legume	Devosia	FALSE	4123118	4048	Hyphomicrobiaceae
+3152	DS-56	public	Nodule	Legume	Devosia	FALSE	3782844	3658	Hyphomicrobiaceae
+3155	E84	public	Nodule	Legume	Devosia	FALSE	3844893	3723	Hyphomicrobiaceae
+3153	Cr7-05	public	Nodule	Legume	Devosia	FALSE	4473266	4505	Hyphomicrobiaceae
+2009	Root436	atsphere	Root	Arabidopsis	Devosia	FALSE	3919126	3799	Hyphomicrobiaceae
+2010	Root635	atsphere	Root	Arabidopsis	Devosia	FALSE	3816678	3675	Hyphomicrobiaceae
+3145	LC5	public	Nodule	Legume	Devosia	FALSE	4201504	4138	Hyphomicrobiaceae
+4366	AIM011101	agbiome	Root	Soybean	Devosia	FALSE	4801320	4765	Hyphomicrobiaceae
+3150	DSM 17137	public	Nodule	Legume	Devosia	FALSE	4431767	4233	Hyphomicrobiaceae
+3157	A16	public	Nodule	Legume	Devosia	FALSE	5032994	4886	Hyphomicrobiaceae
+2007	Root413D1	atsphere	Root	Arabidopsis	Devosia	FALSE	5851492	5617	Hyphomicrobiaceae
+2006	Root105	atsphere	Root	Arabidopsis	Devosia	FALSE	5850260	5656	Hyphomicrobiaceae
+3159	WSM2075	public	Nodule	Legume	Mesorhizobium	TRUE	6884444	6635	Mesorhizobium
+3209	LNHC221B00	public	Nodule	Legume	Mesorhizobium	TRUE	6755469	6553	Mesorhizobium
+3184	LNHC232B00	public	Nodule	Legume	Mesorhizobium	TRUE	6986305	6792	Mesorhizobium
+3166	NZP2037	public	Nodule	Legume	Mesorhizobium	TRUE	7462792	7213	Mesorhizobium
+3233	7653R	public	Nodule	Legume	Mesorhizobium	TRUE	6881675	6797	Mesorhizobium
+3221	R7A	public	Nodule	Legume	Mesorhizobium	TRUE	6529530	6236	Mesorhizobium
+3158	MAFF303099	public	Nodule	Legume	Mesorhizobium	TRUE	7596297	7377	Mesorhizobium
+3170	USDA 3471	public	Nodule	Legume	Mesorhizobium	TRUE	7023073	6714	Mesorhizobium
+2018	Root172	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	6838880	6549	Mesorhizobium
+3225	R88b	public	Nodule	Legume	Mesorhizobium	TRUE	7195110	6867	Mesorhizobium
+3171	CJ3sym	public	Nodule	Legume	Mesorhizobium	TRUE	7563725	7333	Mesorhizobium
+3232	URHC0008	public	Nodule	Legume	Mesorhizobium	FALSE	7106298	6752	Mesorhizobium
+3161	WSM2073	public	Nodule	Legume	Mesorhizobium	TRUE	6200534	5935	Mesorhizobium
+3182	LNHC220B00	public	Nodule	Legume	Mesorhizobium	TRUE	6661414	6523	Mesorhizobium
+3183	LNHC229A00	public	Nodule	Legume	Mesorhizobium	TRUE	6815905	6731	Mesorhizobium
+3208	LNHC209A00	public	Nodule	Legume	Mesorhizobium	TRUE	6647317	6458	Mesorhizobium
+3224	WSM3626	public	Nodule	Legume	Mesorhizobium	TRUE	6283661	6168	Mesorhizobium
+3167	URHA0056	public	Nodule	Legume	Mesorhizobium	FALSE	6306952	6160	Mesorhizobium
+3160	WSM1271	public	Nodule	Legume	Mesorhizobium	TRUE	6690028	6405	Mesorhizobium
+3222	WSM1293	public	Nodule	Legume	Mesorhizobium	TRUE	6938611	6644	Mesorhizobium
+3169	CMG6	public	Nodule	Legume	Mesorhizobium	TRUE	6910194	6644	Mesorhizobium
+3226	WSM4083	public	Nodule	Legume	Mesorhizobium	TRUE	6847884	6599	Mesorhizobium
+3206	L2C084A000	public	Nodule	Legume	Mesorhizobium	TRUE	6634331	6451	Mesorhizobium
+2017	Root695	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	6565519	6412	Mesorhizobium
+2012	Root102	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	6761570	6583	Mesorhizobium
+3210	LNHC252B00	public	Nodule	Legume	Mesorhizobium	TRUE	6769197	6709	Mesorhizobium
+3177	L103C565B0	public	Nodule	Legume	Mesorhizobium	FALSE	6146683	5920	Mesorhizobium
+3214	LSHC412B00	public	Nodule	Legume	Mesorhizobium	TRUE	6522318	6335	Mesorhizobium
+3198	LSHC432A00	public	Nodule	Legume	Mesorhizobium	FALSE	5989894	5833	Mesorhizobium
+3217	LSHC440B00	public	Nodule	Legume	Mesorhizobium	TRUE	6461302	6299	Mesorhizobium
+3218	LSJC255A00	public	Nodule	Legume	Mesorhizobium	TRUE	6806382	6690	Mesorhizobium
+3199	LSHC440A00	public	Nodule	Legume	Mesorhizobium	TRUE	6464344	6347	Mesorhizobium
+3194	LSHC414A00	public	Nodule	Legume	Mesorhizobium	TRUE	6570463	6418	Mesorhizobium
+3211	LNJC384A00	public	Nodule	Legume	Mesorhizobium	TRUE	6528135	6408	Mesorhizobium
+3189	LNJC391B00	public	Nodule	Legume	Mesorhizobium	TRUE	6388821	6189	Mesorhizobium
+3192	LNJC399B00	public	Nodule	Legume	Mesorhizobium	TRUE	6528125	6250	Mesorhizobium
+3201	LSJC265A00	public	Nodule	Legume	Mesorhizobium	TRUE	6803396	6648	Mesorhizobium
+3205	L2C067A000	public	Nodule	Legume	Mesorhizobium	TRUE	6673493	6560	Mesorhizobium
+3213	LNJC403B00	public	Nodule	Legume	Mesorhizobium	FALSE	5947317	5732	Mesorhizobium
+3193	LNJC405B00	public	Nodule	Legume	Mesorhizobium	TRUE	6631484	6474	Mesorhizobium
+3231	URHB0007	public	Nodule	Legume	Mesorhizobium	FALSE	6069513	5780	Mesorhizobium
+3173	L103C105A0	public	Nodule	Legume	Mesorhizobium	TRUE	6519934	6379	Mesorhizobium
+3187	LNJC380A00	public	Nodule	Legume	Mesorhizobium	FALSE	5752495	5585	Mesorhizobium
+3207	L2C085B000	public	Nodule	Legume	Mesorhizobium	TRUE	6600937	6450	Mesorhizobium
+3202	LSJC268A00	public	Nodule	Legume	Mesorhizobium	TRUE	6637962	6478	Mesorhizobium
+3188	LNJC386A00	public	Nodule	Legume	Mesorhizobium	FALSE	6175245	6004	Mesorhizobium
+3212	LNJC398B00	public	Nodule	Legume	Mesorhizobium	FALSE	5957649	5760	Mesorhizobium
+3174	L103C119B0	public	Nodule	Legume	Mesorhizobium	TRUE	6725096	6537	Mesorhizobium
+3180	L2C089B000	public	Nodule	Legume	Mesorhizobium	TRUE	6708915	6525	Mesorhizobium
+3178	L2C054A000	public	Nodule	Legume	Mesorhizobium	TRUE	6395892	6228	Mesorhizobium
+3197	LSHC426A00	public	Nodule	Legume	Mesorhizobium	TRUE	6486028	6275	Mesorhizobium
+3195	LSHC416B00	public	Nodule	Legume	Mesorhizobium	TRUE	6644891	6514	Mesorhizobium
+3196	LSHC424B00	public	Nodule	Legume	Mesorhizobium	TRUE	6647953	6500	Mesorhizobium
+3175	L103C120A0	public	Nodule	Legume	Mesorhizobium	TRUE	6610754	6428	Mesorhizobium
+3179	L2C066B000	public	Nodule	Legume	Mesorhizobium	TRUE	6634925	6488	Mesorhizobium
+3203	LSJC269B00	public	Nodule	Legume	Mesorhizobium	TRUE	6557138	6396	Mesorhizobium
+3220	LSJC285A00	public	Nodule	Legume	Mesorhizobium	TRUE	6694778	6568	Mesorhizobium
+3185	LNJC372A00	public	Nodule	Legume	Mesorhizobium	TRUE	6523874	6287	Mesorhizobium
+3186	LNJC374B00	public	Nodule	Legume	Mesorhizobium	TRUE	6522780	6307	Mesorhizobium
+3176	L103C131B0	public	Nodule	Legume	Mesorhizobium	TRUE	6589313	6342	Mesorhizobium
+3216	LSHC422A00	public	Nodule	Legume	Mesorhizobium	TRUE	6645017	6452	Mesorhizobium
+3219	LSJC277A00	public	Nodule	Legume	Mesorhizobium	TRUE	6498108	6413	Mesorhizobium
+3200	LSJC264A00	public	Nodule	Legume	Mesorhizobium	TRUE	6559540	6493	Mesorhizobium
+3191	LNJC395A00	public	Nodule	Legume	Mesorhizobium	TRUE	6331752	6153	Mesorhizobium
+4453	AIM012681	agbiome	Other	Other	Mesorhizobium	FALSE	6208895	6496	Mesorhizobium
+4449	AIM012663	agbiome	Other	Other	Mesorhizobium	FALSE	6448763	6158	Mesorhizobium
+4451	AIM012675	agbiome	Other	Other	Mesorhizobium	FALSE	6222442	5977	Mesorhizobium
+4452	AIM012679	agbiome	Other	Other	Mesorhizobium	FALSE	6086980	5928	Mesorhizobium
+3215	LSHC420B00	public	Nodule	Legume	Mesorhizobium	TRUE	7044680	7085	Mesorhizobium
+3204	LSJC280B00	public	Nodule	Legume	Mesorhizobium	TRUE	7021328	7032	Mesorhizobium
+3181	L48C026A00	public	Nodule	Legume	Mesorhizobium	TRUE	7770655	7690	Mesorhizobium
+3223	WSM2561	public	Nodule	Legume	Mesorhizobium	TRUE	7037543	6830	Mesorhizobium
+3165	STM 4661	public	Nodule	Legume	Mesorhizobium	TRUE	6547395	6313	Mesorhizobium
+3164	STM 2683	public	Nodule	Legume	Mesorhizobium	TRUE	6232533	6061	Mesorhizobium
+3162	CCNWGS0123	public	Nodule	Legume	Mesorhizobium	TRUE	7271161	6974	Mesorhizobium
+3237	NA	public	Nodule	Legume	Mesorhizobium	TRUE	7136869	6781	Mesorhizobium
+3235	NA	public	Nodule	Legume	Mesorhizobium	TRUE	7631313	7346	Mesorhizobium
+3236	NA	public	Nodule	Legume	Mesorhizobium	TRUE	7222359	6938	Mesorhizobium
+3243	NA	public	Nodule	Legume	Mesorhizobium	TRUE	7098743	6747	Mesorhizobium
+3238	NA	public	Nodule	Legume	Mesorhizobium	TRUE	6503916	6220	Mesorhizobium
+3240	NA	public	Nodule	Legume	Mesorhizobium	TRUE	6857051	6586	Mesorhizobium
+3168	WSM3224	public	Nodule	Legume	Mesorhizobium	TRUE	7096802	6880	Mesorhizobium
+3239	NA	public	Nodule	Legume	Mesorhizobium	TRUE	6546936	6261	Mesorhizobium
+2013	Root1471	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	3750538	3624	Mesorhizobium
+2014	Root554	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	3749717	3627	Mesorhizobium
+3228	NBIMC_P2-C3	public	Nodule	Legume	Mesorhizobium	FALSE	5538678	5240	Mesorhizobium
+3229	NBIMC_P2-C4	public	Nodule	Legume	Mesorhizobium	FALSE	6358798	5970	Mesorhizobium
+3227	NBIMC_P2-C2	public	Nodule	Legume	Mesorhizobium	FALSE	5527801	5253	Mesorhizobium
+3230	NBIMC_P2-C1	public	Nodule	Legume	Mesorhizobium	FALSE	5938371	5614	Mesorhizobium
+3244	1M-11	public	Nodule	Legume	Mesorhizobium	FALSE	6689479	6433	Mesorhizobium
+2016	Root157	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	4193379	4095	Mesorhizobium
+2015	Root552	atsphere	Root	Arabidopsis	Mesorhizobium	FALSE	4619371	4516	Mesorhizobium
+3242	LC103	public	Nodule	Legume	Mesorhizobium	FALSE	6050619	5819	Mesorhizobium
+3290	LMG 3301	public	Nodule	Legume	Ochrobactrum	FALSE	4725392	4554	Other
+3292	M86	public	Nodule	Legume	Ochrobactrum	FALSE	5172306	5198	Other
+3296	EGD-AQ16	public	Nodule	Legume	Ochrobactrum	FALSE	4834336	4623	Other
+3295	EGD-AQ16	public	Nodule	Legume	Ochrobactrum	FALSE	4839722	4628	Other
+4664	AIM014690	agbiome	Other	Soybean	Ochrobactrum	FALSE	5013691	4889	Other
+3300	2745-2	public	Nodule	Legume	Ochrobactrum	FALSE	4782735	4635	Other
+4769	AIM015639	agbiome	Other	Wheat	Ochrobactrum	FALSE	4637978	4489	Other
+4208	AIM009323	agbiome	Other	Other	Ochrobactrum	FALSE	4496421	4282	Other
+4207	AIM009315	agbiome	Other	Rice	Ochrobactrum	FALSE	4482131	4318	Other
+4661	AIM014666	agbiome	Other	Cucumber	Ochrobactrum	FALSE	5142163	5027	Other
+4663	AIM014669	agbiome	Other	Cucumber	Ochrobactrum	FALSE	5133065	5038	Other
+4652	AIM014635	agbiome	Other	Corn	Ochrobactrum	FALSE	4671482	4435	Other
+4657	AIM014652	agbiome	Other	Cucumber	Ochrobactrum	FALSE	4574697	4393	Other
+4819	AIM016914	agbiome	Soil	Soil	Ochrobactrum	FALSE	4350027	4141	Other
+4793	AIM016069	agbiome	Other	Corn	Ochrobactrum	FALSE	4737112	4512	Other
+4820	AIM016922	agbiome	Soil	Soil	Ochrobactrum	FALSE	4438569	4289	Other
+4653	AIM014636	agbiome	Other	Corn	Ochrobactrum	FALSE	4455013	4297	Other
+4766	AIM015612	agbiome	Other	Rice	Ochrobactrum	FALSE	4362202	4295	Other
+4768	AIM015634	agbiome	Other	Wheat	Ochrobactrum	FALSE	4257370	4195	Other
+4757	AIM015576	agbiome	Other	Other	Ochrobactrum	FALSE	5153125	4957	Other
+4756	AIM015573	agbiome	Other	Other	Ochrobactrum	FALSE	5154337	4947	Other
+4759	AIM015580	agbiome	Other	Other	Ochrobactrum	FALSE	5154664	4952	Other
+4758	AIM015579	agbiome	Other	Other	Ochrobactrum	FALSE	5154819	4950	Other
+4760	AIM015581	agbiome	Other	Other	Ochrobactrum	FALSE	5156980	4944	Other
+3302	OAB	public	Nodule	Legume	Ochrobactrum	FALSE	4901165	4644	Other
+3289	ATCC 49188	public	Nodule	Legume	Ochrobactrum	FALSE	5205777	5012	Other
+3291	CTS-325	public	Nodule	Legume	Ochrobactrum	FALSE	4725129	4445	Other
+3301	UNC390CL2Tsu3S39	public	Nodule	Legume	Ochrobactrum	FALSE	4624630	4395	Other
+3299	W13P3	public	Nodule	Legume	Ochrobactrum	FALSE	5275367	5133	Other
+3303	ML7	public	Nodule	Legume	Ochrobactrum	FALSE	4897996	4764	Other
+4855	AIM023909	agbiome	Other	Other	Ochrobactrum	FALSE	5146012	7677	Other
+3293	CDB2	public	Nodule	Legume	Ochrobactrum	FALSE	4969936	4826	Other
+4840	AIM018751	agbiome	Soil	Soil	Ochrobactrum	FALSE	4994421	4731	Other
+4846	AIM022457	agbiome	Insect	Insect	Ochrobactrum	FALSE	5075814	4782	Other
+4849	AIM022460	agbiome	Insect	Insect	Ochrobactrum	FALSE	5024328	4673	Other
+4845	AIM022456	agbiome	Insect	Insect	Ochrobactrum	FALSE	5074447	4786	Other
+4850	AIM022461	agbiome	Insect	Insect	Ochrobactrum	FALSE	5072842	4765	Other
+4847	AIM022458	agbiome	Insect	Insect	Ochrobactrum	FALSE	5026941	4728	Other
+4848	AIM022459	agbiome	Insect	Insect	Ochrobactrum	FALSE	5072558	5626	Other
+4851	AIM022464	agbiome	Insect	Insect	Ochrobactrum	FALSE	5075196	5924	Other
+4415	AIM011898	agbiome	Insect	Insect	Ochrobactrum	FALSE	4833820	4562	Other
+4416	AIM011911	agbiome	Insect	Insect	Ochrobactrum	FALSE	4830882	4559	Other
+4413	AIM011844	agbiome	Soil	Wheat	Ochrobactrum	FALSE	4830688	4566	Other
+4417	AIM011912	agbiome	Insect	Insect	Ochrobactrum	FALSE	4830602	4562	Other
+4412	AIM011840	agbiome	Soil	Wheat	Ochrobactrum	FALSE	4833589	4558	Other
+4841	AIM018755	agbiome	Soil	Soil	Ochrobactrum	FALSE	5078262	4876	Other
+4842	AIM019105	agbiome	Soil	Soil	Ochrobactrum	FALSE	5070450	4853	Other
+3298	SJY1	public	Nodule	Legume	Ochrobactrum	FALSE	5225478	5165	Other
+4077	AIM005489	agbiome	Root	Soybean	Ochrobactrum	FALSE	5057371	4930	Other
+4742	AIM015419	agbiome	Other	Wheat	Ochrobactrum	FALSE	4248622	3990	Other
+4741	AIM015398	agbiome	Other	Oats	Ochrobactrum	FALSE	4224145	4057	Other
+4794	AIM016073	agbiome	Soil	Other	Ochrobactrum	FALSE	3809732	3394	Other
+4551	AIM013966	agbiome	Insect	Insect	Ochrobactrum	FALSE	4049334	3831	Other
+4852	AIM023862	agbiome	Soil	Soil	Ochrobactrum	FALSE	4305175	3897	Other
+4853	AIM023863	agbiome	Soil	Soil	Ochrobactrum	FALSE	4255083	3864	Other
+3305	UNC302MFCol5.2	public	Nodule	Legume	Phyllobacterium	FALSE	4729246	4530	Other
+4595	AIM014301	agbiome	Other	Corn	Phyllobacterium	FALSE	4587963	4500	Other
+4831	AIM017981	agbiome	Soil	Soil	Phyllobacterium	FALSE	4883196	4884	Other
+4790	AIM016035	agbiome	Soil	Corn	Phyllobacterium	FALSE	5727287	5728	Other
+4429	AIM012317	agbiome	Other	Other	Phyllobacterium	FALSE	5858824	5849	Other
+4447	AIM012655	agbiome	Other	Other	Phyllobacterium	FALSE	5862556	5953	Other
+4445	AIM012647	agbiome	Other	Other	Phyllobacterium	FALSE	5864248	5954	Other
+4450	AIM012667	agbiome	Other	Other	Phyllobacterium	FALSE	5805292	5821	Other
+3304	YR531	public	Nodule	Legume	Phyllobacterium	FALSE	4995907	4850	Other
+4093	AIM006024	agbiome	Root	Soybean	Phyllobacterium	FALSE	4601852	4492	Other
+4163	AIM008326	agbiome	Other	Corn	Phyllobacterium	FALSE	3973577	11365	Other
+4562	AIM013982	agbiome	Insect	Insect	Phyllobacterium	FALSE	5143721	5023	Other
+4559	AIM013979	agbiome	Insect	Insect	Phyllobacterium	FALSE	5145287	5040	Other
+4564	AIM013984	agbiome	Insect	Insect	Phyllobacterium	FALSE	5140445	5043	Other
+4552	AIM013967	agbiome	Insect	Insect	Phyllobacterium	FALSE	5142280	5019	Other
+4558	AIM013977	agbiome	Insect	Insect	Phyllobacterium	FALSE	5142743	5015	Other
+4546	AIM013955	agbiome	Insect	Insect	Phyllobacterium	FALSE	5143469	5055	Other
+4556	AIM013975	agbiome	Insect	Insect	Phyllobacterium	FALSE	5143579	5026	Other
+4554	AIM013969	agbiome	Insect	Insect	Phyllobacterium	FALSE	5140139	5019	Other
+4563	AIM013983	agbiome	Insect	Insect	Phyllobacterium	FALSE	5142426	5017	Other
+4545	AIM013954	agbiome	Insect	Insect	Phyllobacterium	FALSE	5138291	5018	Other
+4555	AIM013972	agbiome	Insect	Insect	Phyllobacterium	FALSE	5143479	5026	Other
+4536	AIM013938	agbiome	Insect	Insect	Phyllobacterium	FALSE	5138835	5012	Other
+4539	AIM013943	agbiome	Insect	Insect	Phyllobacterium	FALSE	5140535	5012	Other
+4557	AIM013976	agbiome	Insect	Insect	Phyllobacterium	FALSE	5138172	5023	Other
+4560	AIM013980	agbiome	Insect	Insect	Phyllobacterium	FALSE	5137428	5035	Other
+4553	AIM013968	agbiome	Insect	Insect	Phyllobacterium	FALSE	5138270	5073	Other
+4540	AIM013945	agbiome	Insect	Insect	Phyllobacterium	FALSE	5137365	5007	Other
+4561	AIM013981	agbiome	Insect	Insect	Phyllobacterium	FALSE	5137312	5018	Other
+4542	AIM013947	agbiome	Insect	Insect	Phyllobacterium	FALSE	5135398	5019	Other
+4565	AIM013985	agbiome	Insect	Insect	Phyllobacterium	FALSE	5141091	5024	Other
+4541	AIM013946	agbiome	Insect	Insect	Phyllobacterium	FALSE	5135636	5031	Other
+4547	AIM013957	agbiome	Insect	Insect	Phyllobacterium	FALSE	5138077	5033	Other
+4550	AIM013961	agbiome	Insect	Insect	Phyllobacterium	FALSE	5134022	5033	Other
+4543	AIM013949	agbiome	Insect	Insect	Phyllobacterium	FALSE	5137662	5015	Other
+4544	AIM013953	agbiome	Insect	Insect	Phyllobacterium	FALSE	5135293	5016	Other
+4549	AIM013960	agbiome	Insect	Insect	Phyllobacterium	FALSE	5135176	5057	Other
+4538	AIM013941	agbiome	Insect	Insect	Phyllobacterium	FALSE	5135970	5036	Other
+4548	AIM013958	agbiome	Insect	Insect	Phyllobacterium	FALSE	5137217	5041	Other
+4330	AIM010671	agbiome	Root	Corn	Phyllobacterium	FALSE	5386454	5681	Other
+3321	WSM597	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7634384	7298	Rhizobium spp.
+3308	WSM2304	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6872702	6540	Rhizobium spp.
+3427	FH23	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7344454	7032	Rhizobium spp.
+3424	CNPSO 671	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6886558	6598	Rhizobium spp.
+3324	WSM2297	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7999455	7626	Rhizobium spp.
+3384	CB782	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6703653	6363	Rhizobium spp.
+3323	WSM2012	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7180565	6946	Rhizobium spp.
+3329	CCGE 510	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6881173	6571	Rhizobium spp.
+3322	WSM1455	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7557514	7312	Rhizobium spp.
+3339	WSM1481	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7555578	7253	Rhizobium spp.
+3306	3841	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7751309	7356	Rhizobium spp.
+3359	VF39	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7647401	7388	Rhizobium spp.
+3352	FA23	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7545552	7201	Rhizobium spp.
+3337	SRDI943	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7412387	7174	Rhizobium spp.
+3309	WSM1325	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7418122	7116	Rhizobium spp.
+1020	R13_F	mpipz	Root	Arabidopsis	Rhizobium leguminosarum	FALSE	7040127	6720	Rhizobium spp.
+3406	CC275e	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7077367	6773	Rhizobium spp.
+3338	TOM	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7357668	7059	Rhizobium spp.
+3361	UPM1131	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7231967	6871	Rhizobium spp.
+3351	248	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7288508	6985	Rhizobium spp.
+3382	WSM1689	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6903379	6617	Rhizobium spp.
+3349	4292	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7346596	6954	Rhizobium spp.
+3380	CC283b	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7923462	7608	Rhizobium spp.
+1019	R13_E	mpipz	Root	Arabidopsis	Rhizobium leguminosarum	FALSE	7306670	7045	Rhizobium spp.
+1015	R13_A	mpipz	Root	Arabidopsis	Rhizobium leguminosarum	TRUE	7639868	7289	Rhizobium spp.
+3340	R602sp	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7220242	6899	Rhizobium spp.
+3415	OV152	public	Nodule	Legume	Rhizobium leguminosarum	FALSE	7258840	6940	Rhizobium spp.
+3358	UPM1137	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7695351	7389	Rhizobium spp.
+3381	CC278f	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	8729608	8446	Rhizobium spp.
+3364	TA1	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	8618824	8328	Rhizobium spp.
+3354	GB30	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7468464	7231	Rhizobium spp.
+3341	Vc2	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	7807172	7456	Rhizobium spp.
+3336	SRDI565	public	Nodule	Legume	Rhizobium leguminosarum	TRUE	6905599	6615	Rhizobium spp.
+3416	CF286	public	Nodule	Legume	Rhizobium leguminosarum	FALSE	7141551	6773	Rhizobium spp.
+3413	CF307	public	Nodule	Legume	Rhizobium leguminosarum	FALSE	6842387	6472	Rhizobium spp.
+3307	CIAT 652	public	Nodule	Legume	Rhizobium etli	TRUE	6448048	6082	Rhizobium spp.
+3320	Ch24-10	public	Nodule	Legume	Rhizobium etli	TRUE	6732565	6449	Rhizobium spp.
+3319	Ch24-10	public	Nodule	Legume	Rhizobium etli	TRUE	6573449	6411	Rhizobium spp.
+3389	CCGM1	public	Nodule	Legume	Rhizobium etli	TRUE	6857774	6621	Rhizobium spp.
+3417	IE4803	public	Nodule	Legume	Rhizobium etli	TRUE	6997434	6613	Rhizobium spp.
+3387	IE4771	public	Nodule	Legume	Rhizobium etli	TRUE	7057405	6651	Rhizobium spp.
+3310	CFN 42	public	Nodule	Legume	Rhizobium etli	TRUE	6530228	6255	Rhizobium spp.
+3366	Mim1	public	Nodule	Legume	Rhizobium etli	TRUE	7197998	6833	Rhizobium spp.
+1016	R13_B	mpipz	Root	Arabidopsis	Rhizobium	FALSE	7854751	7635	Rhizobium spp.
+4589	AIM014277	agbiome	Other	Soybean	Rhizobium	FALSE	7375499	7265	Rhizobium spp.
+4807	AIM016399	agbiome	Soil	Soybean	Rhizobium	FALSE	7625805	7479	Rhizobium spp.
+4585	AIM014268	agbiome	Other	Soybean	Rhizobium	FALSE	7626510	7481	Rhizobium spp.
+4590	AIM014278	agbiome	Other	Soybean	Rhizobium	FALSE	7907089	7822	Rhizobium spp.
+4591	AIM014280	agbiome	Other	Soybean	Rhizobium	FALSE	7614200	7579	Rhizobium spp.
+4592	AIM014282	agbiome	Other	Soybean	Rhizobium	FALSE	7608560	8762	Rhizobium spp.
+3393	YR540	public	Nodule	Legume	Rhizobium	FALSE	7315509	7016	Rhizobium spp.
+3410	YR584	public	Nodule	Legume	Rhizobium	FALSE	7395659	7092	Rhizobium spp.
+4475	AIM013000	agbiome	Other	Corn	Rhizobium	FALSE	7532775	7434	Rhizobium spp.
+4473	AIM012998	agbiome	Other	Corn	Rhizobium	FALSE	7528628	7434	Rhizobium spp.
+4471	AIM012996	agbiome	Other	Corn	Rhizobium	FALSE	7528284	7446	Rhizobium spp.
+4479	AIM013012	agbiome	Other	Corn	Rhizobium	FALSE	7529158	7433	Rhizobium spp.
+4481	AIM013014	agbiome	Other	Corn	Rhizobium	FALSE	7530372	7433	Rhizobium spp.
+4468	AIM012992	agbiome	Other	Corn	Rhizobium	FALSE	7531755	7435	Rhizobium spp.
+4476	AIM013001	agbiome	Other	Corn	Rhizobium	FALSE	7526666	7438	Rhizobium spp.
+4482	AIM013015	agbiome	Other	Corn	Rhizobium	FALSE	7528013	7449	Rhizobium spp.
+4459	AIM012981	agbiome	Other	Corn	Rhizobium	FALSE	7524380	7445	Rhizobium spp.
+4460	AIM012982	agbiome	Other	Corn	Rhizobium	FALSE	7525828	7440	Rhizobium spp.
+4469	AIM012993	agbiome	Other	Corn	Rhizobium	FALSE	7529707	7438	Rhizobium spp.
+4478	AIM013011	agbiome	Other	Corn	Rhizobium	FALSE	7526559	7452	Rhizobium spp.
+4480	AIM013013	agbiome	Other	Corn	Rhizobium	FALSE	7527545	7440	Rhizobium spp.
+4466	AIM012990	agbiome	Other	Corn	Rhizobium	FALSE	7528651	7448	Rhizobium spp.
+4477	AIM013010	agbiome	Other	Corn	Rhizobium	FALSE	7531197	7445	Rhizobium spp.
+4470	AIM012994	agbiome	Other	Corn	Rhizobium	FALSE	7525398	7437	Rhizobium spp.
+4472	AIM012997	agbiome	Other	Corn	Rhizobium	FALSE	7528951	7440	Rhizobium spp.
+4474	AIM012999	agbiome	Other	Corn	Rhizobium	FALSE	7519950	7458	Rhizobium spp.
+4467	AIM012991	agbiome	Other	Corn	Rhizobium	FALSE	7528890	7447	Rhizobium spp.
+4463	AIM012987	agbiome	Other	Corn	Rhizobium	FALSE	7525466	7470	Rhizobium spp.
+4458	AIM012980	agbiome	Other	Corn	Rhizobium	FALSE	7524796	7475	Rhizobium spp.
+4464	AIM012988	agbiome	Other	Corn	Rhizobium	FALSE	7525199	7465	Rhizobium spp.
+4461	AIM012983	agbiome	Other	Corn	Rhizobium	FALSE	7522635	7484	Rhizobium spp.
+4465	AIM012989	agbiome	Other	Corn	Rhizobium	FALSE	7523054	7479	Rhizobium spp.
+4462	AIM012986	agbiome	Other	Corn	Rhizobium	FALSE	7510099	7545	Rhizobium spp.
+4457	AIM012978	agbiome	Other	Corn	Rhizobium	FALSE	7469139	7687	Rhizobium spp.
+3325	CF142	public	Nodule	Legume	Rhizobium	FALSE	7451051	7221	Rhizobium spp.
+4594	AIM014294	agbiome	Other	Soybean	Rhizobium	FALSE	7495411	7616	Rhizobium spp.
+4349	AIM010798	agbiome	Root	Corn	Rhizobium	FALSE	7207630	7056	Rhizobium spp.
+4350	AIM010800	agbiome	Root	Corn	Rhizobium	FALSE	7194788	7115	Rhizobium spp.
+4196	AIM008790	agbiome	Other	Corn	Rhizobium	FALSE	7387349	7214	Rhizobium spp.
+4347	AIM010773	agbiome	Root	Corn	Rhizobium	FALSE	7554476	7393	Rhizobium spp.
+4455	AIM012743	agbiome	Root	Corn	Rhizobium	FALSE	7374293	7321	Rhizobium spp.
+4169	AIM008556	agbiome	Leaf	Other	Rhizobium	FALSE	7630667	7508	Rhizobium spp.
+4348	AIM010779	agbiome	Root	Corn	Rhizobium	FALSE	7240529	7097	Rhizobium spp.
+4440	AIM012621	agbiome	Root	Oats	Rhizobium	FALSE	7180535	7059	Rhizobium spp.
+4507	AIM013120	agbiome	Root	Corn	Rhizobium	FALSE	7369479	7211	Rhizobium spp.
+4436	AIM012537	agbiome	Other	Other	Rhizobium	FALSE	7343937	7227	Rhizobium spp.
+4537	AIM013940	agbiome	Insect	Insect	Rhizobium	FALSE	7588706	7496	Rhizobium spp.
+4428	AIM012313	agbiome	Insect	Insect	Rhizobium	FALSE	7452936	7382	Rhizobium spp.
+4720	AIM015207	agbiome	Root	Other	Rhizobium	FALSE	7164395	6933	Rhizobium spp.
+4780	AIM015744	agbiome	Other	Wheat	Rhizobium	FALSE	5985827	5794	Rhizobium spp.
+4704	AIM015117	agbiome	Other	Soybean	Rhizobium	FALSE	5905771	5726	Rhizobium spp.
+4701	AIM014991	agbiome	Other	Wheat	Rhizobium	FALSE	5963938	5792	Rhizobium spp.
+4778	AIM015721	agbiome	Soil	Corn	Rhizobium	FALSE	6028273	5842	Rhizobium spp.
+4680	AIM014965	agbiome	Other	Wheat	Rhizobium	FALSE	5783470	5609	Rhizobium spp.
+4777	AIM015716	agbiome	Soil	Corn	Rhizobium	FALSE	6069827	5916	Rhizobium spp.
+1017	R13_C	mpipz	Root	Arabidopsis	Rhizobium	FALSE	6574341	6356	Rhizobium spp.
+2062	Root1203	atsphere	Root	Arabidopsis	Rhizobium	FALSE	6705461	6579	Rhizobium spp.
+1018	R13_D	mpipz	Root	Arabidopsis	Rhizobium	FALSE	6160419	6008	Rhizobium spp.
+3398	OV483	public	Nodule	Legume	Rhizobium	FALSE	6518058	6425	Rhizobium spp.
+2068	Root1220	atsphere	Root	Arabidopsis	Rhizobium	FALSE	5749658	5607	Rhizobium spp.
+3403	YR519	public	Nodule	Legume	Rhizobium	FALSE	5831370	5572	Rhizobium spp.
+4430	AIM012350	agbiome	Root	Other	Rhizobium	FALSE	5837495	5613	Rhizobium spp.
+3408	YR528	public	Nodule	Legume	Rhizobium	FALSE	6180594	5854	Rhizobium spp.
+4203	AIM008900	agbiome	Other	Corn	Rhizobium	FALSE	6457564	6198	Rhizobium spp.
+4188	AIM008765	agbiome	Other	Corn	Rhizobium	FALSE	6458344	6203	Rhizobium spp.
+4205	AIM008907	agbiome	Other	Corn	Rhizobium	FALSE	6448917	6209	Rhizobium spp.
+4180	AIM008700	agbiome	Other	Corn	Rhizobium	FALSE	6464821	6225	Rhizobium spp.
+4173	AIM008674	agbiome	Other	Corn	Rhizobium	FALSE	6461550	6237	Rhizobium spp.
+4193	AIM008780	agbiome	Other	Corn	Rhizobium	FALSE	6453241	6230	Rhizobium spp.
+4178	AIM008691	agbiome	Other	Corn	Rhizobium	FALSE	6449781	6213	Rhizobium spp.
+3348	2MFCol3.1	public	Nodule	Legume	Rhizobium	FALSE	6550409	6293	Rhizobium spp.
+4431	AIM012361	agbiome	Root	Other	Rhizobium	FALSE	6362572	7607	Rhizobium spp.
+4199	AIM008861	agbiome	Other	Corn	Rhizobium	FALSE	6827681	6608	Rhizobium spp.
+4426	AIM012172	agbiome	Root	Oats	Rhizobium	FALSE	6440908	6271	Rhizobium spp.
+4439	AIM012618	agbiome	Root	Oats	Rhizobium	FALSE	6552831	6322	Rhizobium spp.
+4172	AIM008668	agbiome	Other	Corn	Rhizobium	FALSE	6407861	6242	Rhizobium spp.
+4171	AIM008667	agbiome	Other	Corn	Rhizobium	FALSE	6409501	6265	Rhizobium spp.
+4067	AIM005169	agbiome	Root	Soybean	Rhizobium	FALSE	6255650	6316	Rhizobium spp.
+4454	AIM012705	agbiome	Other	Corn	Rhizobium	FALSE	6276278	6326	Rhizobium spp.
+4069	AIM005226	agbiome	Root	Corn	Rhizobium	FALSE	6599183	6373	Rhizobium spp.
+4071	AIM005281	agbiome	Root	Corn	Rhizobium	FALSE	6599069	6376	Rhizobium spp.
+4414	AIM011857	agbiome	Soil	Wheat	Rhizobium	FALSE	6729258	6535	Rhizobium spp.
+4143	AIM007240	agbiome	Other	Soybean	Rhizobium	FALSE	6961344	6774	Rhizobium spp.
+4519	AIM013306	agbiome	Other	Corn	Rhizobium	FALSE	6347222	6204	Rhizobium spp.
+4432	AIM012375	agbiome	Root	Other	Rhizobium	FALSE	5802484	5528	Rhizobium spp.
+4827	AIM017944	agbiome	Soil	Soil	Rhizobium	FALSE	6493405	6273	Rhizobium spp.
+4828	AIM017953	agbiome	Soil	Soil	Rhizobium	FALSE	6494860	6269	Rhizobium spp.
+4614	AIM014464	agbiome	Other	Soybean	Rhizobium	FALSE	6493108	6409	Rhizobium spp.
+4587	AIM014275	agbiome	Other	Soybean	Rhizobium	FALSE	6862074	6915	Rhizobium spp.
+4836	AIM018139	agbiome	Soil	Other	Rhizobium	FALSE	6095168	5973	Rhizobium spp.
+3385	LPU83	public	Nodule	Legume	Rhizobium	FALSE	7038809	7108	Rhizobium spp.
+3353	OR191	public	Nodule	Legume	Rhizobium	TRUE	7368160	7604	Rhizobium spp.
+3409	CF048	public	Nodule	Legume	Rhizobium	FALSE	6824633	6666	Rhizobium spp.
+3399	OV201	public	Nodule	Legume	Rhizobium	FALSE	7184437	7041	Rhizobium spp.
+3333	STM3625	public	Nodule	Legume	Rhizobium	TRUE	6461927	6349	Rhizobium spp.
+3360	STM 6155	public	Nodule	Legume	Rhizobium	TRUE	6927906	6853	Rhizobium spp.
+3327	CF122	public	Nodule	Legume	Rhizobium	FALSE	6135065	5993	Rhizobium spp.
+3331	CCGE 502	public	Nodule	Legume	Rhizobium	TRUE	7131588	7005	Rhizobium spp.
+3347	42MFCr.1	public	Nodule	Legume	Rhizobium	FALSE	6207487	6101	Rhizobium spp.
+4816	AIM016677	agbiome	Soil	Soybean	Rhizobium	FALSE	6552140	6468	Rhizobium spp.
+3379	IBUN	public	Nodule	Legume	Rhizobium	FALSE	6515922	6403	Rhizobium spp.
+4374	AIM011152	agbiome	Root	Soybean	Rhizobium	FALSE	6537219	6404	Rhizobium spp.
+4526	AIM013656	agbiome	Other	Soybean	Rhizobium	FALSE	6381908	6224	Rhizobium spp.
+4576	AIM014241	agbiome	Other	Other	Rhizobium	FALSE	6363022	6290	Rhizobium spp.
+4823	AIM017898	agbiome	Soil	Soil	Rhizobium	FALSE	6835305	7105	Rhizobium spp.
+4815	AIM016672	agbiome	Soil	Soybean	Rhizobium	FALSE	6278966	6178	Rhizobium spp.
+4824	AIM017900	agbiome	Soil	Soil	Rhizobium	FALSE	7784413	8021	Rhizobium spp.
+4529	AIM013722	agbiome	Other	Corn	Rhizobium	FALSE	6668975	6541	Rhizobium spp.
+4404	AIM011775	agbiome	Root	Soybean	Rhizobium	FALSE	6675759	6636	Rhizobium spp.
+4822	AIM017897	agbiome	Soil	Soil	Rhizobium	FALSE	6616028	6895	Rhizobium spp.
+4825	AIM017902	agbiome	Soil	Soil	Rhizobium	FALSE	6627635	6615	Rhizobium spp.
+4700	AIM014989	agbiome	Other	Wheat	Rhizobium	FALSE	5425865	5260	Rhizobium spp.
+4703	AIM014993	agbiome	Other	Wheat	Rhizobium	FALSE	5426654	5271	Rhizobium spp.
+3400	CF394	public	Nodule	Legume	Rhizobium	FALSE	6626667	6388	Rhizobium spp.
+4834	AIM017996	agbiome	Soil	Soil	Rhizobium	FALSE	6593271	10747	Rhizobium spp.
+2079	Root708	atsphere	Root	Arabidopsis	Rhizobium	FALSE	6292121	6046	Rhizobium spp.
+4620	AIM014512	agbiome	Other	Cucumber	Rhizobium	FALSE	6181098	5971	Rhizobium spp.
+3418	R602	public	Nodule	Legume	Rhizobium	TRUE	7311190	7068	Rhizobium spp.
+3355	USDA 1844	public	Nodule	Legume	Rhizobium	TRUE	7166346	7146	Rhizobium spp.
+4535	AIM013892	agbiome	Other	Soybean	Rhizobium	FALSE	6157088	6007	Rhizobium spp.
+4346	AIM010753	agbiome	Root	Corn	Rhizobium	FALSE	6355633	6226	Rhizobium spp.
+4438	AIM012615	agbiome	Root	Oats	Rhizobium	FALSE	6302718	6152	Rhizobium spp.
+4365	AIM011099	agbiome	Root	Soybean	Rhizobium	FALSE	6361620	6179	Rhizobium spp.
+4504	AIM013108	agbiome	Other	Corn	Rhizobium	FALSE	6253906	6134	Rhizobium spp.
+4498	AIM013098	agbiome	Other	Corn	Rhizobium	FALSE	6253242	6150	Rhizobium spp.
+4503	AIM013107	agbiome	Other	Corn	Rhizobium	FALSE	6247993	6136	Rhizobium spp.
+4604	AIM014387	agbiome	Other	Other	Rhizobium	FALSE	6430799	6334	Rhizobium spp.
+4362	AIM011072	agbiome	Root	Corn	Rhizobium	FALSE	6562325	6455	Rhizobium spp.
+3334	CIAT 899	public	Nodule	Legume	Rhizobium tropici	TRUE	6686334	6360	Rhizobium spp.
+4496	AIM013088	agbiome	Other	Corn	Rhizobium tropici	FALSE	6354311	6049	Rhizobium spp.
+4497	AIM013091	agbiome	Other	Corn	Rhizobium tropici	FALSE	6354684	6048	Rhizobium spp.
+4506	AIM013110	agbiome	Other	Corn	Rhizobium tropici	FALSE	6396039	6102	Rhizobium spp.
+4499	AIM013100	agbiome	Other	Corn	Rhizobium tropici	FALSE	6394819	6121	Rhizobium spp.
+4520	AIM013323	agbiome	Other	Corn	Rhizobium tropici	FALSE	6354566	6044	Rhizobium spp.
+4521	AIM013324	agbiome	Other	Corn	Rhizobium tropici	FALSE	6354151	6045	Rhizobium spp.
+4505	AIM013109	agbiome	Other	Corn	Rhizobium tropici	FALSE	6902761	6639	Rhizobium spp.
+4456	AIM012819	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6396133	6098	Rhizobium spp.
+4500	AIM013103	agbiome	Other	Corn	Rhizobium tropici	FALSE	6340506	6125	Rhizobium spp.
+4502	AIM013105	agbiome	Other	Corn	Rhizobium tropici	FALSE	6342312	6111	Rhizobium spp.
+4501	AIM013104	agbiome	Other	Corn	Rhizobium tropici	FALSE	6340417	6131	Rhizobium spp.
+4483	AIM013020	agbiome	Other	Corn	Rhizobium tropici	FALSE	6386614	6053	Rhizobium spp.
+4522	AIM013334	agbiome	Other	Corn	Rhizobium tropici	FALSE	5942701	5693	Rhizobium spp.
+4515	AIM013265	agbiome	Insect	Insect	Rhizobium tropici	FALSE	6469767	6103	Rhizobium spp.
+4513	AIM013256	agbiome	Insect	Insect	Rhizobium tropici	FALSE	6465177	6112	Rhizobium spp.
+4642	AIM014563	agbiome	Other	Other	Rhizobium tropici	FALSE	6848057	6541	Rhizobium spp.
+4625	AIM014521	agbiome	Other	Rice	Rhizobium tropici	FALSE	6846597	6574	Rhizobium spp.
+4702	AIM014992	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6739047	6471	Rhizobium spp.
+4681	AIM014966	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6640978	6364	Rhizobium spp.
+4684	AIM014969	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6643118	6357	Rhizobium spp.
+4696	AIM014984	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637915	6399	Rhizobium spp.
+4682	AIM014967	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639676	6368	Rhizobium spp.
+4693	AIM014980	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639351	6355	Rhizobium spp.
+4685	AIM014970	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637519	6372	Rhizobium spp.
+4694	AIM014981	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639993	6365	Rhizobium spp.
+4699	AIM014987	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639732	6372	Rhizobium spp.
+4686	AIM014971	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637283	6366	Rhizobium spp.
+4695	AIM014982	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6640110	6363	Rhizobium spp.
+4747	AIM015457	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639106	6390	Rhizobium spp.
+4683	AIM014968	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6638759	6374	Rhizobium spp.
+4745	AIM015452	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639031	6431	Rhizobium spp.
+4688	AIM014973	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6638567	6364	Rhizobium spp.
+4690	AIM014976	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639556	6371	Rhizobium spp.
+4697	AIM014985	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637142	6360	Rhizobium spp.
+4698	AIM014986	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6638013	6371	Rhizobium spp.
+4677	AIM014945	agbiome	Other	Rice	Rhizobium tropici	FALSE	6773891	6503	Rhizobium spp.
+4687	AIM014972	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637678	6368	Rhizobium spp.
+4691	AIM014977	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6637671	6371	Rhizobium spp.
+4746	AIM015456	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639120	6387	Rhizobium spp.
+4692	AIM014979	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6639222	6389	Rhizobium spp.
+4689	AIM014975	agbiome	Other	Wheat	Rhizobium tropici	FALSE	6634183	6397	Rhizobium spp.
+4637	AIM014545	agbiome	Other	Rice	Rhizobium tropici	FALSE	7150270	6941	Rhizobium spp.
+4782	AIM015759	agbiome	Other	Oats	Rhizobium tropici	FALSE	7144194	6883	Rhizobium spp.
+4619	AIM014510	agbiome	Other	Cucumber	Rhizobium tropici	FALSE	6091466	5786	Rhizobium spp.
+4626	AIM014523	agbiome	Other	Rice	Rhizobium tropici	FALSE	6385475	6160	Rhizobium spp.
+4623	AIM014517	agbiome	Other	Rice	Rhizobium tropici	FALSE	6388970	6180	Rhizobium spp.
+4621	AIM014515	agbiome	Other	Rice	Rhizobium tropici	FALSE	6388837	6165	Rhizobium spp.
+4635	AIM014542	agbiome	Other	Rice	Rhizobium tropici	FALSE	6388846	6190	Rhizobium spp.
+4639	AIM014548	agbiome	Other	Rice	Rhizobium tropici	FALSE	6532389	6272	Rhizobium spp.
+4640	AIM014551	agbiome	Other	Rice	Rhizobium tropici	FALSE	6530792	6284	Rhizobium spp.
+4633	AIM014540	agbiome	Other	Rice	Rhizobium tropici	FALSE	6531721	6285	Rhizobium spp.
+4667	AIM014758	agbiome	Other	Soybean	Rhizobium tropici	FALSE	6760303	6518	Rhizobium spp.
+4707	AIM015144	agbiome	Other	Rice	Rhizobium tropici	FALSE	6775638	6555	Rhizobium spp.
+4673	AIM014805	agbiome	Other	Cucumber	Rhizobium tropici	FALSE	6837757	6639	Rhizobium spp.
+4674	AIM014807	agbiome	Other	Cucumber	Rhizobium tropici	FALSE	6806878	6633	Rhizobium spp.
+4765	AIM015604	agbiome	Other	Rice	Rhizobium tropici	FALSE	6489137	6264	Rhizobium spp.
+4678	AIM014946	agbiome	Other	Rice	Rhizobium tropici	FALSE	7144347	6775	Rhizobium spp.
+4609	AIM014451	agbiome	Root	Cotton	Rhizobium tropici	FALSE	7533389	7170	Rhizobium spp.
+4514	AIM013259	agbiome	Insect	Insect	Rhizobium tropici	FALSE	5955673	5639	Rhizobium spp.
+4512	AIM013255	agbiome	Insect	Insect	Rhizobium tropici	FALSE	5956582	5641	Rhizobium spp.
+4511	AIM013254	agbiome	Insect	Insect	Rhizobium tropici	FALSE	5959712	5643	Rhizobium spp.
+4486	AIM013027	agbiome	Root	Cotton	Rhizobium tropici	FALSE	5960748	5646	Rhizobium spp.
+4487	AIM013029	agbiome	Root	Cotton	Rhizobium tropici	FALSE	5958277	5655	Rhizobium spp.
+4489	AIM013031	agbiome	Root	Cotton	Rhizobium tropici	FALSE	5993396	5685	Rhizobium spp.
+4488	AIM013030	agbiome	Root	Cotton	Rhizobium tropici	FALSE	5909036	5615	Rhizobium spp.
+3407	PTD1	public	Nodule	Legume	Rhizobium tropici	FALSE	8054993	7672	Rhizobium spp.
+4608	AIM014450	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6332686	6032	Rhizobium spp.
+4611	AIM014458	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6330657	6033	Rhizobium spp.
+4612	AIM014460	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6333452	6030	Rhizobium spp.
+4610	AIM014457	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6330546	6096	Rhizobium spp.
+4523	AIM013352	agbiome	Other	Corn	Rhizobium tropici	FALSE	6142726	5839	Rhizobium spp.
+4484	AIM013022	agbiome	Other	Corn	Rhizobium tropici	FALSE	6557333	6322	Rhizobium spp.
+4485	AIM013023	agbiome	Other	Corn	Rhizobium tropici	FALSE	6552294	6340	Rhizobium spp.
+4607	AIM014449	agbiome	Root	Cotton	Rhizobium tropici	FALSE	6409876	6145	Rhizobium spp.
+4649	AIM014597	agbiome	Other	Soybean	Rhizobium tropici	FALSE	6665925	6194	Rhizobium spp.
+4676	AIM014938	agbiome	Other	Oats	Rhizobium tropici	FALSE	6727186	6240	Rhizobium spp.
+4806	AIM016364	agbiome	Other	Other	Rhizobium tropici	FALSE	6552658	6153	Rhizobium spp.
+4618	AIM014505	agbiome	Other	Cucumber	Rhizobium tropici	FALSE	6643764	6372	Rhizobium spp.
+4706	AIM015139	agbiome	Other	Rice	Rhizobium tropici	FALSE	7118721	6751	Rhizobium spp.
+4708	AIM015146	agbiome	Other	Rice	Rhizobium tropici	FALSE	6619608	6197	Rhizobium spp.
+4669	AIM014776	agbiome	Other	Corn	Rhizobium tropici	FALSE	6927353	6512	Rhizobium spp.
+4805	AIM016241	agbiome	Other	Other	Rhizobium tropici	FALSE	7006008	6588	Rhizobium spp.
+4668	AIM014774	agbiome	Other	Corn	Rhizobium tropici	FALSE	6942985	6520	Rhizobium spp.
+4724	AIM015243	agbiome	Other	Rice	Rhizobium tropici	FALSE	7440568	7094	Rhizobium spp.
+4666	AIM014742	agbiome	Other	Cucumber	Rhizobium tropici	FALSE	7066333	6585	Rhizobium spp.
+4671	AIM014791	agbiome	Other	Corn	Rhizobium tropici	FALSE	7153758	6808	Rhizobium spp.
+4518	AIM013300	agbiome	Other	Corn	Rhizobium tropici	FALSE	6741617	6388	Rhizobium spp.
+3335	PRF 81	public	Nodule	Legume	Rhizobium tropici	TRUE	7071507	6627	Rhizobium spp.
+3028	OK036	public	Nodule	Legume	Rhizobium tropici	FALSE	7774528	7368	Rhizobium spp.
+3027	YR147	public	Nodule	Legume	Rhizobium tropici	FALSE	7318924	6974	Rhizobium spp.
+3412	YR635	public	Nodule	Legume	Rhizobium tropici	FALSE	7383882	6945	Rhizobium spp.
+4588	AIM014276	agbiome	Other	Soybean	Rhizobium tropici	FALSE	6787050	6433	Rhizobium spp.
+4320	AIM010591	agbiome	Root	Soybean	Rhizobium tropici	FALSE	6803351	6439	Rhizobium spp.
+4325	AIM010641	agbiome	Root	Soybean	Rhizobium tropici	FALSE	6825524	12859	Rhizobium spp.
+4367	AIM011122	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7146373	6722	Rhizobium spp.
+3401	OK494	public	Nodule	Legume	Rhizobium tropici	FALSE	7413247	7023	Rhizobium spp.
+4363	AIM011081	agbiome	Root	Soybean	Rhizobium tropici	FALSE	6798790	6390	Rhizobium spp.
+4322	AIM010601	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7089626	10608	Rhizobium spp.
+4364	AIM011088	agbiome	Root	Soybean	Rhizobium tropici	FALSE	6887780	6711	Rhizobium spp.
+4326	AIM010647	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7263664	6948	Rhizobium spp.
+4324	AIM010629	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7759321	7488	Rhizobium spp.
+4323	AIM010613	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7759216	7485	Rhizobium spp.
+4321	AIM010592	agbiome	Root	Soybean	Rhizobium tropici	FALSE	7761305	7483	Rhizobium spp.
+3414	YR374	public	Nodule	Legume	Rhizobium tropici	FALSE	7272481	6859	Rhizobium spp.
+3000	K84	public	Nodule	Legume	Rhizobium tropici	FALSE	7273300	6835	Rhizobium spp.
+3019	NBRC 13257	public	Nodule	Legume	Rhizobium tropici	FALSE	7042723	6599	Rhizobium spp.
+3029	CF263	public	Nodule	Legume	Rhizobium tropici	FALSE	6667127	6236	Rhizobium spp.
+3031	CF262	public	Nodule	Legume	Rhizobium tropici	FALSE	6662905	6231	Rhizobium spp.
+3411	YR530	public	Nodule	Legume	Rhizobium tropici	FALSE	6992870	6574	Rhizobium spp.
+4380	AIM011314	agbiome	Other	Other	Rhizobium tropici	FALSE	6974751	6622	Rhizobium spp.
+4381	AIM011321	agbiome	Other	Other	Rhizobium tropici	FALSE	6976886	6615	Rhizobium spp.
+4385	AIM011330	agbiome	Other	Other	Rhizobium tropici	FALSE	6973750	6630	Rhizobium spp.
+4387	AIM011341	agbiome	Other	Other	Rhizobium tropici	FALSE	6972787	6631	Rhizobium spp.
+4383	AIM011324	agbiome	Other	Other	Rhizobium tropici	FALSE	6969757	6640	Rhizobium spp.
+4382	AIM011323	agbiome	Other	Other	Rhizobium tropici	FALSE	6967719	6646	Rhizobium spp.
+4379	AIM011307	agbiome	Other	Other	Rhizobium tropici	FALSE	6969281	6651	Rhizobium spp.
+4388	AIM011342	agbiome	Other	Other	Rhizobium tropici	FALSE	6967890	6649	Rhizobium spp.
+4386	AIM011338	agbiome	Other	Other	Rhizobium tropici	FALSE	6965735	6670	Rhizobium spp.
+4384	AIM011325	agbiome	Other	Other	Rhizobium tropici	FALSE	6948852	6714	Rhizobium spp.
+3402	YR060	public	Nodule	Legume	Rhizobium tropici	FALSE	6597605	6235	Rhizobium spp.
+3023	ATCC 15834	public	Nodule	Legume	Rhizobium tropici	FALSE	7056168	6682	Rhizobium spp.
+3022	ATCC 15834	public	Nodule	Legume	Rhizobium tropici	FALSE	7061852	6687	Rhizobium spp.
+3326	AP16	public	Nodule	Legume	Rhizobium tropici	FALSE	6495051	6122	Rhizobium spp.
+3030	OV677	public	Nodule	Legume	Rhizobium tropici	FALSE	6544331	6098	Rhizobium spp.
+3357	USDA 9039	public	Nodule	Legume	Rhizobium tropici	TRUE	6679728	6472	Rhizobium spp.
+1008	R129_I	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6350271	5992	Rhizobium spp.
+1007	R129_H	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6618052	6309	Rhizobium spp.
+1013	R129_N	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6391403	6064	Rhizobium spp.
+1011	R129_L	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6307011	5964	Rhizobium spp.
+1024	Rg	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6565834	6267	Rhizobium spp.
+3350	H152	public	Nodule	Legume	Rhizobium giardinii	FALSE	6808177	6605	Rhizobium spp.
+1012	R129_M	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6044506	5773	Rhizobium spp.
+1002	R129_B	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6162044	5982	Rhizobium spp.
+1003	R129_C	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6328377	6024	Rhizobium spp.
+1001	R129_A	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6400964	6318	Rhizobium spp.
+3394	CF097	public	Nodule	Legume	Rhizobium giardinii	FALSE	6859583	6602	Rhizobium spp.
+3396	YR295	public	Nodule	Legume	Rhizobium giardinii	FALSE	6450535	6098	Rhizobium spp.
+3395	CF258	public	Nodule	Legume	Rhizobium giardinii	FALSE	6644329	6341	Rhizobium spp.
+4830	AIM017977	agbiome	Soil	Soil	Rhizobium giardinii	FALSE	7153821	9689	Rhizobium spp.
+1009	R129_J	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6238075	5954	Rhizobium spp.
+2070	Root1334	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	6310811	5997	Rhizobium spp.
+2077	Root73	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	6314006	6015	Rhizobium spp.
+1014	R129_O	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6298605	5996	Rhizobium spp.
+2063	Root1204	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	6583769	6393	Rhizobium spp.
+3397	OK665	public	Nodule	Legume	Rhizobium giardinii	FALSE	6030556	5704	Rhizobium spp.
+1010	R129_K	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	5502331	5216	Rhizobium spp.
+4833	AIM017994	agbiome	Soil	Soil	Rhizobium giardinii	FALSE	5464587	5719	Rhizobium spp.
+2071	Root483D2	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	6042950	5790	Rhizobium spp.
+4527	AIM013710	agbiome	Other	Corn	Rhizobium giardinii	FALSE	6776767	6710	Rhizobium spp.
+4586	AIM014272	agbiome	Other	Soybean	Rhizobium giardinii	FALSE	7054688	7073	Rhizobium spp.
+1005	R129_E	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6779498	6447	Rhizobium spp.
+1004	R129_D	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6659413	6442	Rhizobium spp.
+4358	AIM011061	agbiome	Root	Corn	Rhizobium giardinii	FALSE	6551578	6232	Rhizobium spp.
+1006	R129_F	mpipz	Root	Arabidopsis	Rhizobium giardinii	FALSE	6428896	6208	Rhizobium spp.
+4391	AIM011372	agbiome	Other	Other	Rhizobium giardinii	FALSE	6217291	5887	Rhizobium spp.
+4360	AIM011068	agbiome	Root	Corn	Rhizobium giardinii	FALSE	6686470	6357	Rhizobium spp.
+2067	Leaf453	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	6368454	6084	Rhizobium spp.
+2061	Leaf391	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	6560665	6250	Rhizobium spp.
+2058	Leaf386	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	6578697	6306	Rhizobium spp.
+2069	Root482	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	5260751	5014	Rhizobium spp.
+4392	AIM011376	agbiome	Other	Other	Rhizobium giardinii	FALSE	5388080	5414	Rhizobium spp.
+2064	Root1212	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	5345260	5021	Rhizobium spp.
+2076	Root268	atsphere	Root	Arabidopsis	Rhizobium giardinii	FALSE	5345506	5030	Rhizobium spp.
+2057	Leaf384	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	4881596	4411	Rhizobium spp.
+2066	Leaf383	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	5014728	4574	Rhizobium spp.
+2060	Leaf341	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	4656797	4201	Rhizobium spp.
+2056	Leaf371	atsphere	Leaf	Arabidopsis	Rhizobium giardinii	FALSE	5085900	4623	Rhizobium spp.
+4393	AIM011377	agbiome	Other	Other	Rhizobium giardinii	FALSE	5037803	4674	Rhizobium spp.
+3431	1021	public	Nodule	Legume	Ensifer	TRUE	6691694	6303	Sinorhizobium
+3463	2011	public	Nodule	Legume	Ensifer	TRUE	6693185	6288	Sinorhizobium
+3434	BL225C	public	Nodule	Legume	Ensifer	TRUE	6978785	6604	Sinorhizobium
+3476	BO21CC	public	Nodule	Legume	Ensifer	TRUE	6989037	6636	Sinorhizobium
+3480	RMO17	public	Nodule	Legume	Ensifer	TRUE	6733414	6342	Sinorhizobium
+3472	CIAM1775	public	Nodule	Legume	Ensifer	TRUE	6712855	6440	Sinorhizobium
+3436	SM11	public	Nodule	Legume	Ensifer	TRUE	7173736	6923	Sinorhizobium
+3467	MVII-I	public	Nodule	Legume	Ensifer	TRUE	7265287	7118	Sinorhizobium
+3477	AK58	public	Nodule	Legume	Ensifer	TRUE	6974333	6712	Sinorhizobium
+3461	GR4	public	Nodule	Legume	Ensifer	TRUE	7139558	6691	Sinorhizobium
+3462	GR4	public	Nodule	Legume	Ensifer	TRUE	7141709	6701	Sinorhizobium
+3475	Mlalz-1	public	Nodule	Legume	Ensifer	TRUE	6664116	6311	Sinorhizobium
+3474	GVPV12	public	Nodule	Legume	Ensifer	TRUE	7076289	6723	Sinorhizobium
+3473	RRl128	public	Nodule	Legume	Ensifer	TRUE	6900273	6683	Sinorhizobium
+3460	Rm41	public	Nodule	Legume	Ensifer	TRUE	7149690	6814	Sinorhizobium
+3481	L5-30	public	Nodule	Legume	Ensifer	TRUE	6880284	6606	Sinorhizobium
+3435	AK83	public	Nodule	Legume	Ensifer	TRUE	7140471	6924	Sinorhizobium
+3478	WSM1022	public	Nodule	Legume	Ensifer	TRUE	6641566	6317	Sinorhizobium
+3438	CCNWSX0020	public	Nodule	Legume	Ensifer	TRUE	6977929	6761	Sinorhizobium
+3465	4H41	public	Nodule	Legume	Ensifer	TRUE	6795637	6353	Sinorhizobium
+3486	USDA 6670	public	Nodule	Legume	Ensifer	TRUE	6813453	6470	Sinorhizobium
+3470	LMG 14919	public	Nodule	Legume	Ensifer	TRUE	6850303	6322	Sinorhizobium
+3432	WSM419	public	Nodule	Legume	Ensifer	TRUE	6817576	6494	Sinorhizobium
+3471	WSM4191	public	Nodule	Legume	Ensifer	TRUE	7227575	6934	Sinorhizobium
+3466	WSM1115	public	Nodule	Legume	Ensifer	TRUE	6861065	6701	Sinorhizobium
+3468	DI28	public	Nodule	Legume	Ensifer	TRUE	6553624	6387	Sinorhizobium
+3469	WSM244	public	Nodule	Legume	Ensifer	TRUE	6650282	6417	Sinorhizobium
+3488	TW10	public	Nodule	Legume	Ensifer	TRUE	6802256	6463	Sinorhizobium
+3482	PC2	public	Nodule	Legume	Ensifer	TRUE	8458965	8428	Sinorhizobium
+3489	WSM1721	public	Nodule	Legume	Ensifer	TRUE	6292184	5935	Sinorhizobium
+3484	CCBAU 05684	public	Nodule	Legume	Ensifer	TRUE	5947537	5680	Sinorhizobium
+3433	NGR234	public	Nodule	Legume	Ensifer	TRUE	6891900	6413	Sinorhizobium
+3448	HH103	public	Nodule	Legume	Ensifer	TRUE	7221188	6812	Sinorhizobium
+3437	GR64	public	Nodule	Legume	Ensifer	TRUE	7116765	6691	Sinorhizobium
+3447	USDA 257	public	Nodule	Legume	Ensifer	TRUE	7032323	6723	Sinorhizobium
+3485	BR816	public	Nodule	Legume	Ensifer	TRUE	6951533	6464	Sinorhizobium
+3479	CCGM7	public	Nodule	Legume	Ensifer	TRUE	6793543	6398	Sinorhizobium
+3439	CCBAU 05631	public	Nodule	Legume	Ensifer	FALSE	6271976	6031	Sinorhizobium
+3490	OV14	public	Nodule	Legume	Ensifer	FALSE	7709009	7271	Sinorhizobium
+2088	Root231	atsphere	Root	Arabidopsis	Ensifer	FALSE	7717186	7391	Sinorhizobium
+2092	Root258	atsphere	Root	Arabidopsis	Ensifer	FALSE	7729434	7410	Sinorhizobium
+2082	Root1252	atsphere	Root	Arabidopsis	Ensifer	FALSE	7722068	7410	Sinorhizobium
+1021	R219_B	mpipz	Root	Arabidopsis	Ensifer	FALSE	7745714	7496	Sinorhizobium
+2086	Root142	atsphere	Root	Arabidopsis	Ensifer	FALSE	7756764	7404	Sinorhizobium
+2081	Root127	atsphere	Root	Arabidopsis	Ensifer	FALSE	7890716	7550	Sinorhizobium
+2080	Root31	atsphere	Root	Arabidopsis	Ensifer	FALSE	8069654	7742	Sinorhizobium
+3493	SD006	public	Nodule	Legume	Ensifer	FALSE	7449749	7045	Sinorhizobium
+4804	AIM016224	agbiome	Soil	Other	Ensifer	FALSE	6440144	6026	Sinorhizobium
+4829	AIM017956	agbiome	Soil	Soil	Ensifer	FALSE	6541281	6101	Sinorhizobium
+4826	AIM017914	agbiome	Soil	Soil	Ensifer	FALSE	6495444	6117	Sinorhizobium
+2085	Root1312	atsphere	Root	Arabidopsis	Ensifer	FALSE	7473610	7011	Sinorhizobium
+2084	Root1298	atsphere	Root	Arabidopsis	Ensifer	FALSE	7473456	7016	Sinorhizobium
+2090	Root74	atsphere	Root	Arabidopsis	Ensifer	FALSE	7480339	7018	Sinorhizobium
+2089	Root954	atsphere	Root	Arabidopsis	Ensifer	FALSE	7457049	7006	Sinorhizobium
+1022	R219_F1	mpipz	Root	Arabidopsis	Ensifer	FALSE	7449001	6977	Sinorhizobium
+1023	R650_R4	mpipz	Root	Arabidopsis	Ensifer	FALSE	7446611	6985	Sinorhizobium
+4182	AIM008704	agbiome	Other	Corn	Ensifer	FALSE	7162330	6826	Sinorhizobium
+4789	AIM016030	agbiome	Soil	Corn	Ensifer	FALSE	7623798	7320	Sinorhizobium
+4573	AIM014226	agbiome	Other	Other	Ensifer	FALSE	7098710	6962	Sinorhizobium
+4076	AIM005455	agbiome	Root	Corn	Ensifer	FALSE	7287026	6966	Sinorhizobium
+4403	AIM011773	agbiome	Root	Soybean	Ensifer	FALSE	7497107	7111	Sinorhizobium
+4277	AIM010111	agbiome	Root	Soybean	Ensifer	FALSE	7437379	7173	Sinorhizobium
+2087	Root558	atsphere	Root	Arabidopsis	Ensifer	FALSE	7184309	6813	Sinorhizobium
+3491	Casida A	public	Nodule	Legume	Ensifer	FALSE	7242747	6881	Sinorhizobium
+2083	Root423	atsphere	Root	Arabidopsis	Ensifer	FALSE	7306521	6909	Sinorhizobium
+4359	AIM011064	agbiome	Root	Corn	Ensifer	FALSE	7206797	7061	Sinorhizobium
+4837	AIM018161	agbiome	Soil	Other	Ensifer	FALSE	7233685	6869	Sinorhizobium
+3492	ZNC0028	public	Nodule	Legume	Ensifer	FALSE	6910832	6568	Sinorhizobium
+2091	Root278	atsphere	Root	Arabidopsis	Ensifer	FALSE	7095460	6718	Sinorhizobium
+4162	AIM008294	agbiome	Other	Corn	Ensifer	FALSE	7304051	7064	Sinorhizobium
+4345	AIM010738	agbiome	Root	Corn	Ensifer	FALSE	7605081	7273	Sinorhizobium
+4792	AIM016042	agbiome	Soil	Corn	Ensifer	FALSE	7279507	7016	Sinorhizobium
+4791	AIM016039	agbiome	Soil	Corn	Ensifer	FALSE	7111115	6899	Sinorhizobium
+4818	AIM016698	agbiome	Soil	Corn	Ensifer	FALSE	7465359	7185	Sinorhizobium
+4675	AIM014901	agbiome	Root	Other	Ensifer	FALSE	7434051	7158	Sinorhizobium
+4075	AIM005449	agbiome	Root	Corn	Ensifer	FALSE	7312271	6953	Sinorhizobium
+4817	AIM016696	agbiome	Soil	Corn	Ensifer	FALSE	7158974	6868	Sinorhizobium
+4838	AIM018349	agbiome	Soil	Soil	Ensifer	FALSE	7367476	6992	Sinorhizobium
+4722	AIM015234	agbiome	Other	Rice	Rhizobium lupini	FALSE	5342299	4972	Rhizobium spp.
+4730	AIM015258	agbiome	Other	Rice	Rhizobium lupini	FALSE	5419013	5025	Rhizobium spp.
+4672	AIM014796	agbiome	Other	Corn	Rhizobium lupini	FALSE	4992935	4677	Rhizobium spp.
+4740	AIM015281	agbiome	Other	Rice	Rhizobium lupini	FALSE	4993203	4647	Rhizobium spp.
+4679	AIM014963	agbiome	Other	Soybean	Rhizobium lupini	FALSE	5372107	4969	Rhizobium spp.
+4801	AIM016166	agbiome	Other	Oats	Rhizobium lupini	FALSE	5521154	5167	Rhizobium spp.
+4710	AIM015169	agbiome	Other	Rice	Rhizobium lupini	FALSE	5308037	5055	Rhizobium spp.
+4752	AIM015551	agbiome	Other	Oats	Rhizobium lupini	FALSE	5135784	4787	Rhizobium spp.
+4713	AIM015178	agbiome	Other	Rice	Rhizobium lupini	FALSE	5646244	5232	Rhizobium spp.
+4716	AIM015192	agbiome	Other	Rice	Rhizobium lupini	FALSE	4923529	4680	Rhizobium spp.
+3003	H13-3	public	Nodule	Legume	Rhizobium lupini	FALSE	5573770	5232	Rhizobium spp.
+3007	5A	public	Nodule	Legume	Rhizobium lupini	FALSE	5736672	5428	Rhizobium spp.
+4066	AIM005164	agbiome	Root	Soybean	Agrobacterium	FALSE	5651879	5354	Agrobacterium
+4371	AIM011144	agbiome	Root	Soybean	Agrobacterium	FALSE	5834748	5567	Agrobacterium
+4073	AIM005374	agbiome	Root	Soybean	Agrobacterium	FALSE	5840296	5591	Agrobacterium
+4079	AIM005572	agbiome	Root	Soybean	Agrobacterium	FALSE	5753053	5492	Agrobacterium
+4376	AIM011252	agbiome	Root	Soybean	Agrobacterium	FALSE	5874017	5562	Agrobacterium
+4010	AIM002385	agbiome	Root	Corn	Agrobacterium	FALSE	5918796	5617	Agrobacterium
+4158	AIM007830	agbiome	Other	Corn	Agrobacterium	FALSE	5804456	5498	Agrobacterium
+4189	AIM008766	agbiome	Other	Corn	Agrobacterium	FALSE	5775667	5443	Agrobacterium
+4424	AIM012159	agbiome	Root	Oats	Agrobacterium	FALSE	5784101	5501	Agrobacterium
+4368	AIM011132	agbiome	Root	Soybean	Agrobacterium	FALSE	5764413	5490	Agrobacterium
+4398	AIM011710	agbiome	Root	Corn	Agrobacterium	FALSE	5837169	5611	Agrobacterium
+4418	AIM011968	agbiome	Root	Corn	Agrobacterium	FALSE	5707715	5452	Agrobacterium
+4425	AIM012171	agbiome	Root	Oats	Agrobacterium	FALSE	5646942	5404	Agrobacterium
+4419	AIM011970	agbiome	Root	Corn	Agrobacterium	FALSE	5757323	5543	Agrobacterium
+4442	AIM012628	agbiome	Root	Oats	Agrobacterium	FALSE	5683033	5548	Agrobacterium
+4132	AIM007130	agbiome	Other	Soybean	Agrobacterium	FALSE	5597809	5252	Agrobacterium
+4128	AIM007112	agbiome	Other	Soybean	Agrobacterium	FALSE	5601312	5260	Agrobacterium
+4103	AIM007026	agbiome	Other	Soybean	Agrobacterium	FALSE	5597906	5259	Agrobacterium
+4441	AIM012624	agbiome	Root	Oats	Agrobacterium	FALSE	5756739	5473	Agrobacterium
+4105	AIM007031	agbiome	Other	Soybean	Agrobacterium	FALSE	5600894	5257	Agrobacterium
+4107	AIM007038	agbiome	Other	Soybean	Agrobacterium	FALSE	5598359	5254	Agrobacterium
+4109	AIM007041	agbiome	Other	Soybean	Agrobacterium	FALSE	5599830	5257	Agrobacterium
+4118	AIM007071	agbiome	Other	Soybean	Agrobacterium	FALSE	5597594	5258	Agrobacterium
+4127	AIM007108	agbiome	Other	Soybean	Agrobacterium	FALSE	5598874	5257	Agrobacterium
+4129	AIM007114	agbiome	Other	Soybean	Agrobacterium	FALSE	5599251	5256	Agrobacterium
+4108	AIM007040	agbiome	Other	Soybean	Agrobacterium	FALSE	5600118	5255	Agrobacterium
+4110	AIM007042	agbiome	Other	Soybean	Agrobacterium	FALSE	5599015	5254	Agrobacterium
+4114	AIM007054	agbiome	Other	Soybean	Agrobacterium	FALSE	5602049	5258	Agrobacterium
+4124	AIM007100	agbiome	Other	Soybean	Agrobacterium	FALSE	5601364	5253	Agrobacterium
+4134	AIM007133	agbiome	Other	Soybean	Agrobacterium	FALSE	5600487	5255	Agrobacterium
+4136	AIM007135	agbiome	Other	Soybean	Agrobacterium	FALSE	5598634	5260	Agrobacterium
+4140	AIM007146	agbiome	Other	Soybean	Agrobacterium	FALSE	5601184	5253	Agrobacterium
+4141	AIM007147	agbiome	Other	Soybean	Agrobacterium	FALSE	5599779	5258	Agrobacterium
+4142	AIM007148	agbiome	Other	Soybean	Agrobacterium	FALSE	5601108	5260	Agrobacterium
+4310	AIM010465	agbiome	Root	Corn	Agrobacterium	FALSE	5635378	5352	Agrobacterium
+4312	AIM010467	agbiome	Root	Corn	Agrobacterium	FALSE	5634968	5351	Agrobacterium
+4313	AIM010468	agbiome	Root	Corn	Agrobacterium	FALSE	5633295	5352	Agrobacterium
+4115	AIM007057	agbiome	Other	Soybean	Agrobacterium	FALSE	5599316	5259	Agrobacterium
+4121	AIM007088	agbiome	Other	Soybean	Agrobacterium	FALSE	5601870	5261	Agrobacterium
+4135	AIM007134	agbiome	Other	Soybean	Agrobacterium	FALSE	5598596	5262	Agrobacterium
+4284	AIM010137	agbiome	Root	Soybean	Agrobacterium	FALSE	5681359	5334	Agrobacterium
+4064	AIM005152	agbiome	Root	Soybean	Agrobacterium	FALSE	5752736	5488	Agrobacterium
+4090	AIM006010	agbiome	Root	Soybean	Agrobacterium	FALSE	5574257	5264	Agrobacterium
+4120	AIM007077	agbiome	Other	Soybean	Agrobacterium	FALSE	5600964	5255	Agrobacterium
+4133	AIM007132	agbiome	Other	Soybean	Agrobacterium	FALSE	5600870	5261	Agrobacterium
+4308	AIM010463	agbiome	Root	Corn	Agrobacterium	FALSE	5633799	5360	Agrobacterium
+4094	AIM006025	agbiome	Root	Soybean	Agrobacterium	FALSE	5574021	5299	Agrobacterium
+4111	AIM007047	agbiome	Other	Soybean	Agrobacterium	FALSE	5600643	5252	Agrobacterium
+4117	AIM007069	agbiome	Other	Soybean	Agrobacterium	FALSE	5603102	5258	Agrobacterium
+4119	AIM007075	agbiome	Other	Soybean	Agrobacterium	FALSE	5599136	5268	Agrobacterium
+4296	AIM010362	agbiome	Root	Soybean	Agrobacterium	FALSE	5732169	5389	Agrobacterium
+4298	AIM010370	agbiome	Root	Soybean	Agrobacterium	FALSE	5733154	5384	Agrobacterium
+4314	AIM010469	agbiome	Root	Corn	Agrobacterium	FALSE	5635258	5354	Agrobacterium
+4078	AIM005523	agbiome	Root	Soybean	Agrobacterium	FALSE	5640475	5336	Agrobacterium
+4226	AIM009852	agbiome	Root	Soybean	Agrobacterium	FALSE	5678719	5403	Agrobacterium
+4074	AIM005383	agbiome	Root	Soybean	Agrobacterium	FALSE	5746893	5437	Agrobacterium
+4285	AIM010138	agbiome	Root	Soybean	Agrobacterium	FALSE	5869149	5581	Agrobacterium
+4212	AIM009813	agbiome	Root	Soybean	Agrobacterium	FALSE	5673658	5420	Agrobacterium
+4080	AIM005574	agbiome	Root	Soybean	Agrobacterium	FALSE	5635825	5384	Agrobacterium
+4355	AIM010992	agbiome	Root	Soybean	Agrobacterium	FALSE	5780163	5668	Agrobacterium
+4063	AIM005142	agbiome	Root	Soybean	Agrobacterium	FALSE	5579053	5259	Agrobacterium
+4211	AIM009812	agbiome	Root	Soybean	Agrobacterium	FALSE	5637817	5326	Agrobacterium
+4528	AIM013716	agbiome	Other	Corn	Agrobacterium	FALSE	5725803	5434	Agrobacterium
+4151	AIM007761	agbiome	Other	Corn	Agrobacterium	FALSE	5620721	5283	Agrobacterium
+4210	AIM009811	agbiome	Root	Soybean	Agrobacterium	FALSE	5668893	5365	Agrobacterium
+4396	AIM011483	agbiome	Root	Soybean	Agrobacterium	FALSE	5676165	5417	Agrobacterium
+4267	AIM009975	agbiome	Root	Soybean	Agrobacterium	FALSE	5682267	5380	Agrobacterium
+4217	AIM009821	agbiome	Root	Soybean	Agrobacterium	FALSE	5632964	5513	Agrobacterium
+4566	AIM013986	agbiome	Insect	Insect	Agrobacterium	FALSE	5546136	5290	Agrobacterium
+3014	P4	public	Nodule	Legume	Agrobacterium	FALSE	5570940	5228	Agrobacterium
+3013	WRT31	public	Nodule	Legume	Agrobacterium	FALSE	5878747	5571	Agrobacterium
+4225	AIM009848	agbiome	Root	Soybean	Agrobacterium	FALSE	5678988	5581	Agrobacterium
+2072	Root491	atsphere	Root	Arabidopsis	Agrobacterium	FALSE	5513853	5223	Agrobacterium
+3017	LBA4213 (Ach5)	public	Nodule	Legume	Agrobacterium	FALSE	5630690	5258	Agrobacterium
+3035	Ach5	public	Nodule	Legume	Agrobacterium	FALSE	5668655	5299	Agrobacterium
+4137	AIM007139	agbiome	Other	Soybean	Agrobacterium	FALSE	5563363	5249	Agrobacterium
+4812	AIM016659	agbiome	Soil	Oats	Agrobacterium	FALSE	5238060	4865	Agrobacterium
+4844	AIM022325	agbiome	Root	Wheat	Agrobacterium	FALSE	5553860	5248	Agrobacterium
+4408	AIM011781	agbiome	Root	Soybean	Agrobacterium	FALSE	5569501	5277	Agrobacterium
+4405	AIM011776	agbiome	Root	Soybean	Agrobacterium	FALSE	5725082	5511	Agrobacterium
+4055	AIM004105	agbiome	Root	Soybean	Agrobacterium	FALSE	5799925	5539	Agrobacterium
+4056	AIM004137	agbiome	Root	Corn	Agrobacterium	FALSE	5676267	5327	Agrobacterium
+4057	AIM004143	agbiome	Root	Corn	Agrobacterium	FALSE	5675969	5327	Agrobacterium
+4001	AIM000243	agbiome	Leaf	Maple	Agrobacterium	FALSE	5673881	5369	Agrobacterium
+4004	AIM000468	agbiome	Other	Corn	Agrobacterium	FALSE	5671075	5350	Agrobacterium
+4003	AIM000467	agbiome	Other	Corn	Agrobacterium	FALSE	5671864	5383	Agrobacterium
+4000	AIM000241	agbiome	Leaf	Maple	Agrobacterium	FALSE	5667880	5396	Agrobacterium
+4002	AIM000250	agbiome	Leaf	Maple	Agrobacterium	FALSE	5670692	5383	Agrobacterium
+4420	AIM011971	agbiome	Root	Corn	Agrobacterium	FALSE	5816738	5603	Agrobacterium
+4399	AIM011718	agbiome	Root	Corn	Agrobacterium	FALSE	5875418	5692	Agrobacterium
+4421	AIM011973	agbiome	Root	Corn	Agrobacterium	FALSE	5877719	5696	Agrobacterium
+4184	AIM008710	agbiome	Other	Corn	Agrobacterium	FALSE	5655731	5359	Agrobacterium
+4202	AIM008877	agbiome	Other	Corn	Agrobacterium	FALSE	5657653	5354	Agrobacterium
+4204	AIM008906	agbiome	Other	Corn	Agrobacterium	FALSE	5659599	5357	Agrobacterium
+4185	AIM008716	agbiome	Other	Corn	Agrobacterium	FALSE	5657896	5357	Agrobacterium
+4195	AIM008787	agbiome	Other	Corn	Agrobacterium	FALSE	5662401	5359	Agrobacterium
+4192	AIM008773	agbiome	Other	Corn	Agrobacterium	FALSE	5660160	5368	Agrobacterium
+4174	AIM008676	agbiome	Other	Corn	Agrobacterium	FALSE	5658746	5362	Agrobacterium
+4187	AIM008761	agbiome	Other	Corn	Agrobacterium	FALSE	5656958	5360	Agrobacterium
+4194	AIM008782	agbiome	Other	Corn	Agrobacterium	FALSE	5656304	5372	Agrobacterium
+4176	AIM008684	agbiome	Other	Corn	Agrobacterium	FALSE	5656850	5360	Agrobacterium
+4179	AIM008692	agbiome	Other	Corn	Agrobacterium	FALSE	5663716	5370	Agrobacterium
+4181	AIM008702	agbiome	Other	Corn	Agrobacterium	FALSE	7116197	7050	Agrobacterium
+4191	AIM008772	agbiome	Other	Corn	Agrobacterium	FALSE	5662719	5647	Agrobacterium
+4190	AIM008767	agbiome	Other	Corn	Agrobacterium	FALSE	7118739	7045	Agrobacterium
+4200	AIM008867	agbiome	Other	Corn	Agrobacterium	FALSE	5650702	5386	Agrobacterium
+4198	AIM008851	agbiome	Other	Corn	Agrobacterium	FALSE	5648538	5398	Agrobacterium
+4186	AIM008719	agbiome	Other	Corn	Agrobacterium	FALSE	5678265	6704	Agrobacterium
+4175	AIM008682	agbiome	Other	Corn	Agrobacterium	FALSE	5641328	5457	Agrobacterium
+4276	AIM010110	agbiome	Root	Soybean	Agrobacterium	FALSE	5782673	5501	Agrobacterium
+4101	AIM006747	agbiome	Root	Soybean	Agrobacterium	FALSE	5765289	5494	Agrobacterium
+4599	AIM014366	agbiome	Other	Other	Agrobacterium	FALSE	5724984	5519	Agrobacterium
+4336	AIM010696	agbiome	Root	Soybean	Agrobacterium	FALSE	5693822	5357	Agrobacterium
+4443	AIM012632	agbiome	Root	Oats	Agrobacterium	FALSE	5831411	5541	Agrobacterium
+4213	AIM009815	agbiome	Root	Soybean	Agrobacterium	FALSE	5719638	5437	Agrobacterium
+4106	AIM007037	agbiome	Other	Soybean	Agrobacterium	FALSE	5385368	5062	Agrobacterium
+4122	AIM007092	agbiome	Other	Soybean	Agrobacterium	FALSE	5384852	5061	Agrobacterium
+4131	AIM007118	agbiome	Other	Soybean	Agrobacterium	FALSE	5383452	5060	Agrobacterium
+4197	AIM008801	agbiome	Other	Corn	Agrobacterium	FALSE	5614227	5349	Agrobacterium
+4510	AIM013209	agbiome	Insect	Insect	Agrobacterium	FALSE	5749033	5548	Agrobacterium
+4007	AIM002084	agbiome	Root	Soybean	Agrobacterium	FALSE	5423814	5292	Agrobacterium
+4601	AIM014372	agbiome	Other	Other	Agrobacterium	FALSE	5682710	5343	Agrobacterium
+4598	AIM014360	agbiome	Other	Other	Agrobacterium	FALSE	5680579	5721	Agrobacterium
+4577	AIM014242	agbiome	Other	Other	Agrobacterium	FALSE	5681471	5332	Agrobacterium
+4574	AIM014231	agbiome	Other	Other	Agrobacterium	FALSE	5677885	5342	Agrobacterium
+4581	AIM014256	agbiome	Other	Other	Agrobacterium	FALSE	5654778	5449	Agrobacterium
+4332	AIM010685	agbiome	Root	Soybean	Agrobacterium	FALSE	5452069	5134	Agrobacterium
+4600	AIM014370	agbiome	Other	Other	Agrobacterium	FALSE	5436142	5209	Agrobacterium
+4603	AIM014386	agbiome	Other	Other	Agrobacterium	FALSE	5438170	5893	Agrobacterium
+4568	AIM013995	agbiome	Insect	Insect	Agrobacterium	FALSE	5428908	5167	Agrobacterium
+4567	AIM013988	agbiome	Insect	Insect	Agrobacterium	FALSE	5426882	5146	Agrobacterium
+4570	AIM014002	agbiome	Insect	Insect	Agrobacterium	FALSE	5428613	5149	Agrobacterium
+4569	AIM013999	agbiome	Insect	Insect	Agrobacterium	FALSE	5427444	5150	Agrobacterium
+4571	AIM014007	agbiome	Insect	Insect	Agrobacterium	FALSE	5430127	5162	Agrobacterium
+4572	AIM014014	agbiome	Insect	Insect	Agrobacterium	FALSE	5423912	5163	Agrobacterium
+4334	AIM010691	agbiome	Root	Soybean	Agrobacterium	FALSE	5718963	5414	Agrobacterium
+4009	AIM002375	agbiome	Root	Corn	Agrobacterium	FALSE	5563561	5279	Agrobacterium
+4343	AIM010727	agbiome	Root	Soybean	Agrobacterium	FALSE	5714552	5439	Agrobacterium
+4084	AIM005656	agbiome	Root	Corn	Agrobacterium	FALSE	5639520	5471	Agrobacterium
+4062	AIM005138	agbiome	Root	Soybean	Agrobacterium	FALSE	5703257	5445	Agrobacterium
+4065	AIM005159	agbiome	Root	Soybean	Agrobacterium	FALSE	5702422	5502	Agrobacterium
+4113	AIM007050	agbiome	Other	Soybean	Agrobacterium	FALSE	5767888	5443	Agrobacterium
+4138	AIM007141	agbiome	Other	Soybean	Agrobacterium	FALSE	5637435	5325	Agrobacterium
+4139	AIM007145	agbiome	Other	Soybean	Agrobacterium	FALSE	5640751	5338	Agrobacterium
+4340	AIM010703	agbiome	Root	Soybean	Agrobacterium	FALSE	5683522	5394	Agrobacterium
+4112	AIM007048	agbiome	Other	Soybean	Agrobacterium	FALSE	5635668	5328	Agrobacterium
+4104	AIM007029	agbiome	Other	Soybean	Agrobacterium	FALSE	5633800	5321	Agrobacterium
+4123	AIM007094	agbiome	Other	Soybean	Agrobacterium	FALSE	5634661	5328	Agrobacterium
+4130	AIM007117	agbiome	Other	Soybean	Agrobacterium	FALSE	5766331	5450	Agrobacterium
+4008	AIM002219	agbiome	Root	Soybean	Agrobacterium	FALSE	5631219	5326	Agrobacterium
+4214	AIM009816	agbiome	Root	Soybean	Agrobacterium	FALSE	6063337	5811	Agrobacterium
+4116	AIM007058	agbiome	Other	Soybean	Agrobacterium	FALSE	5848234	5490	Agrobacterium
+4342	AIM010723	agbiome	Root	Soybean	Agrobacterium	FALSE	5600496	5337	Agrobacterium
+4006	AIM002081	agbiome	Root	Soybean	Agrobacterium	FALSE	5581032	10058	Agrobacterium
+3033	KFB 330	public	Nodule	Legume	Agrobacterium	FALSE	6297907	5889	Agrobacterium
+3420	39/7	public	Nodule	Legume	Agrobacterium	FALSE	5325139	4999	Agrobacterium
+3005	F2	public	Nodule	Legume	Agrobacterium	FALSE	5465705	5108	Agrobacterium
+3024	S2	public	Nodule	Legume	Agrobacterium	FALSE	6003183	5684	Agrobacterium
+3036	LC34	public	Nodule	Legume	Agrobacterium	FALSE	5601128	5272	Agrobacterium
+2075	Root651	atsphere	Root	Arabidopsis	Agrobacterium	FALSE	5804683	5569	Agrobacterium
+3037	SUL3	public	Nodule	Legume	Agrobacterium	FALSE	6013863	5799	Agrobacterium
+3378	IRBG74	public	Nodule	Legume	Agrobacterium	TRUE	5464982	5192	Agrobacterium
+4654	AIM014640	agbiome	Other	Cucumber	Agrobacterium	FALSE	5034344	4794	Agrobacterium
+4630	AIM014531	agbiome	Other	Rice	Agrobacterium	FALSE	5126806	4891	Agrobacterium
+4638	AIM014546	agbiome	Other	Rice	Agrobacterium	FALSE	5170689	4996	Agrobacterium
+4648	AIM014593	agbiome	Other	Other	Agrobacterium	FALSE	5168935	5004	Agrobacterium
+4624	AIM014518	agbiome	Other	Rice	Agrobacterium	FALSE	5167766	5002	Agrobacterium
+4634	AIM014541	agbiome	Other	Rice	Agrobacterium	FALSE	5171750	4985	Agrobacterium
+4655	AIM014646	agbiome	Other	Cucumber	Agrobacterium	FALSE	5022980	4808	Agrobacterium
+4645	AIM014580	agbiome	Other	Other	Agrobacterium	FALSE	5170094	4981	Agrobacterium
+4646	AIM014583	agbiome	Other	Other	Agrobacterium	FALSE	5143553	4933	Agrobacterium
+4656	AIM014647	agbiome	Other	Cucumber	Agrobacterium	FALSE	5145225	4931	Agrobacterium
+4658	AIM014655	agbiome	Other	Cucumber	Agrobacterium	FALSE	4956709	4784	Agrobacterium
+4764	AIM015603	agbiome	Other	Cucumber	Agrobacterium	FALSE	4934798	4721	Agrobacterium
+4743	AIM015447	agbiome	Other	Rice	Agrobacterium	FALSE	4958338	4778	Agrobacterium
+4744	AIM015448	agbiome	Other	Rice	Agrobacterium	FALSE	4955432	4759	Agrobacterium
+4665	AIM014704	agbiome	Other	Cucumber	Agrobacterium	FALSE	4936808	4820	Agrobacterium
+4651	AIM014632	agbiome	Other	Corn	Agrobacterium	FALSE	5032021	4827	Agrobacterium
+4783	AIM015852	agbiome	Other	Cucumber	Agrobacterium	FALSE	5073992	4882	Agrobacterium
+4763	AIM015602	agbiome	Other	Cucumber	Agrobacterium	FALSE	4958648	4768	Agrobacterium
+4622	AIM014516	agbiome	Other	Rice	Agrobacterium	FALSE	5169225	4985	Agrobacterium
+4628	AIM014526	agbiome	Other	Rice	Agrobacterium	FALSE	5170577	4991	Agrobacterium
+4797	AIM016109	agbiome	Other	Cucumber	Agrobacterium	FALSE	5146129	4920	Agrobacterium
+4644	AIM014573	agbiome	Other	Other	Agrobacterium	FALSE	5167410	4998	Agrobacterium
+4641	AIM014552	agbiome	Other	Rice	Agrobacterium	FALSE	5165036	5003	Agrobacterium
+4643	AIM014564	agbiome	Other	Other	Agrobacterium	FALSE	5143213	4942	Agrobacterium
+4796	AIM016108	agbiome	Other	Cucumber	Agrobacterium	FALSE	5141035	4953	Agrobacterium
+4636	AIM014543	agbiome	Other	Rice	Agrobacterium	FALSE	5158422	5030	Agrobacterium
+4617	AIM014503	agbiome	Other	Cucumber	Agrobacterium	FALSE	5025342	4825	Agrobacterium
+4631	AIM014536	agbiome	Other	Rice	Agrobacterium	FALSE	5160252	5047	Agrobacterium
+3405	H41	public	Nodule	Legume	Agrobacterium	FALSE	5550942	5451	Agrobacterium
+3332	HPC(L)	public	Nodule	Legume	Agrobacterium	FALSE	5268198	5376	Agrobacterium
+4647	AIM014590	agbiome	Other	Other	Agrobacterium	FALSE	5363102	5168	Agrobacterium
+4650	AIM014620	agbiome	Other	Corn	Agrobacterium	FALSE	5207664	4999	Agrobacterium
+4795	AIM016077	agbiome	Other	Rice	Agrobacterium	FALSE	5204247	5003	Agrobacterium
+4767	AIM015613	agbiome	Other	Rice	Agrobacterium	FALSE	5186609	4975	Agrobacterium
+4761	AIM015582	agbiome	Other	Other	Agrobacterium	FALSE	5345963	5147	Agrobacterium
+3021	33MFTa1.1	public	Nodule	Legume	Agrobacterium	FALSE	5304664	5014	Agrobacterium
+3419	UR51a	public	Nodule	Legume	Agrobacterium	FALSE	5229696	4934	Agrobacterium
+4509	AIM013178	agbiome	Insect	Insect	Agrobacterium	FALSE	5232007	4984	Agrobacterium
+4148	AIM007756	agbiome	Other	Corn	Agrobacterium	FALSE	5340451	5105	Agrobacterium
+4525	AIM013621	agbiome	Other	Corn	Agrobacterium	FALSE	5295415	5138	Agrobacterium
+4662	AIM014667	agbiome	Other	Cucumber	Agrobacterium	FALSE	5428146	5229	Agrobacterium
+4659	AIM014658	agbiome	Other	Cucumber	Agrobacterium	FALSE	5476415	5313	Agrobacterium
+4660	AIM014659	agbiome	Other	Cucumber	Agrobacterium	FALSE	5478411	5302	Agrobacterium
+3018	S33	public	Nodule	Legume	Agrobacterium	FALSE	5373510	5395	Agrobacterium
+3009	Cherry 2E-2-2	public	Nodule	Legume	Agrobacterium	FALSE	5422599	5078	Agrobacterium
+3002	C58	public	Nodule	Legume	Agrobacterium	FALSE	5674258	5288	Agrobacterium
+3025	LBA4404	public	Nodule	Legume	Agrobacterium	FALSE	5611635	5258	Agrobacterium
+3034	F4	public	Nodule	Legume	Agrobacterium	FALSE	5615171	5356	Agrobacterium
+4839	AIM018671	agbiome	Leaf	Other	Agrobacterium	FALSE	5620858	5301	Agrobacterium
+3004	ATCC 31749	public	Nodule	Legume	Agrobacterium	FALSE	5457251	5168	Agrobacterium
+4085	AIM005662	agbiome	Root	Corn	Agrobacterium	FALSE	5682439	5488	Agrobacterium
+3015	UNC420CL41Cvi	public	Nodule	Legume	Agrobacterium	FALSE	4966114	4624	Agrobacterium
+3011	224MFTsu3.1	public	Nodule	Legume	Agrobacterium	FALSE	4799379	4469	Agrobacterium
+4045	AIM003867	agbiome	Root	Soybean	Agrobacterium	FALSE	5035720	4718	Agrobacterium
+4246	AIM009945	agbiome	Root	Soybean	Agrobacterium	FALSE	5302701	5464	Agrobacterium
+4053	AIM003885	agbiome	Root	Soybean	Agrobacterium	FALSE	4992793	5029	Agrobacterium
+4020	AIM002627	agbiome	Root	Corn	Agrobacterium	FALSE	5042777	4705	Agrobacterium
+4031	AIM002835	agbiome	Root	Corn	Agrobacterium	FALSE	5044939	4681	Agrobacterium
+4028	AIM002721	agbiome	Root	Soybean	Agrobacterium	FALSE	5038946	4692	Agrobacterium
+4015	AIM002603	agbiome	Root	Corn	Agrobacterium	FALSE	5042391	4717	Agrobacterium
+4016	AIM002604	agbiome	Root	Corn	Agrobacterium	FALSE	5043139	4713	Agrobacterium
+4021	AIM002632	agbiome	Root	Corn	Agrobacterium	FALSE	5042568	4690	Agrobacterium
+4024	AIM002708	agbiome	Root	Soybean	Agrobacterium	FALSE	5042289	4682	Agrobacterium
+4014	AIM002602	agbiome	Root	Corn	Agrobacterium	FALSE	5043696	4731	Agrobacterium
+4017	AIM002605	agbiome	Root	Corn	Agrobacterium	FALSE	5040587	4747	Agrobacterium
+4029	AIM002749	agbiome	Root	Soybean	Agrobacterium	FALSE	5041343	4689	Agrobacterium
+4018	AIM002606	agbiome	Root	Corn	Agrobacterium	FALSE	5041873	4744	Agrobacterium
+4023	AIM002692	agbiome	Root	Soybean	Agrobacterium	FALSE	5037685	4698	Agrobacterium
+4025	AIM002709	agbiome	Root	Soybean	Agrobacterium	FALSE	5037761	4719	Agrobacterium
+4027	AIM002712	agbiome	Root	Soybean	Agrobacterium	FALSE	5039692	4686	Agrobacterium
+4012	AIM002600	agbiome	Root	Corn	Agrobacterium	FALSE	5036932	4696	Agrobacterium
+4013	AIM002601	agbiome	Root	Corn	Agrobacterium	FALSE	5040656	4731	Agrobacterium
+4026	AIM002711	agbiome	Root	Soybean	Agrobacterium	FALSE	5037358	4708	Agrobacterium
+4036	AIM003039	agbiome	Other	Nematode	Agrobacterium	FALSE	5037314	4708	Agrobacterium
+4022	AIM002638	agbiome	Root	Corn	Agrobacterium	FALSE	5032861	4757	Agrobacterium
+4019	AIM002608	agbiome	Root	Corn	Agrobacterium	FALSE	5033012	4742	Agrobacterium
+4532	AIM013872	agbiome	Other	Other	Agrobacterium	FALSE	5522284	5247	Agrobacterium
+4040	AIM003246	agbiome	Insect	Insect	Agrobacterium	FALSE	5111713	4872	Agrobacterium
+4274	AIM010104	agbiome	Root	Soybean	Agrobacterium	FALSE	5584044	5225	Agrobacterium
+4297	AIM010363	agbiome	Root	Soybean	Agrobacterium	FALSE	5581221	5227	Agrobacterium
+4279	AIM010121	agbiome	Root	Soybean	Agrobacterium	FALSE	5584226	5231	Agrobacterium
+4294	AIM010332	agbiome	Root	Soybean	Agrobacterium	FALSE	5580973	5228	Agrobacterium
+4293	AIM010325	agbiome	Root	Soybean	Agrobacterium	FALSE	5584794	5225	Agrobacterium
+4299	AIM010384	agbiome	Root	Soybean	Agrobacterium	FALSE	5582738	5233	Agrobacterium
+4153	AIM007763	agbiome	Other	Corn	Agrobacterium	FALSE	5503666	5209	Agrobacterium
+4155	AIM007769	agbiome	Other	Corn	Agrobacterium	FALSE	5500837	5200	Agrobacterium
+4147	AIM007755	agbiome	Other	Corn	Agrobacterium	FALSE	5499078	5202	Agrobacterium
+4149	AIM007757	agbiome	Other	Corn	Agrobacterium	FALSE	5498569	5220	Agrobacterium
+4290	AIM010164	agbiome	Root	Soybean	Agrobacterium	FALSE	5537329	5248	Agrobacterium
+4305	AIM010425	agbiome	Root	Corn	Agrobacterium	FALSE	5541016	5271	Agrobacterium
+4032	AIM002914	agbiome	Other	Soybean	Agrobacterium	FALSE	5595601	5318	Agrobacterium
+4157	AIM007779	agbiome	Other	Corn	Agrobacterium	FALSE	5499933	5201	Agrobacterium
+4289	AIM010148	agbiome	Root	Soybean	Agrobacterium	FALSE	5534827	5255	Agrobacterium
+4044	AIM003865	agbiome	Root	Soybean	Agrobacterium	FALSE	5576378	5318	Agrobacterium
+4150	AIM007759	agbiome	Other	Corn	Agrobacterium	FALSE	5497564	5215	Agrobacterium
+4304	AIM010424	agbiome	Root	Corn	Agrobacterium	FALSE	5546883	5281	Agrobacterium
+4232	AIM009929	agbiome	Root	Soybean	Agrobacterium	FALSE	5564432	5298	Agrobacterium
+4291	AIM010168	agbiome	Root	Soybean	Agrobacterium	FALSE	5580016	5283	Agrobacterium
+4301	AIM010389	agbiome	Root	Corn	Agrobacterium	FALSE	5541312	5279	Agrobacterium
+4146	AIM007737	agbiome	Other	Corn	Agrobacterium	FALSE	5497221	5231	Agrobacterium
+4154	AIM007764	agbiome	Other	Corn	Agrobacterium	FALSE	5501625	6124	Agrobacterium
+4283	AIM010131	agbiome	Root	Soybean	Agrobacterium	FALSE	5576182	5291	Agrobacterium
+4278	AIM010116	agbiome	Root	Soybean	Agrobacterium	FALSE	5578615	5303	Agrobacterium
+4275	AIM010107	agbiome	Root	Soybean	Agrobacterium	FALSE	5559159	5344	Agrobacterium
+4286	AIM010141	agbiome	Root	Soybean	Agrobacterium	FALSE	5576648	5302	Agrobacterium
+4240	AIM009938	agbiome	Root	Soybean	Agrobacterium	FALSE	5559423	5318	Agrobacterium
+4273	AIM010101	agbiome	Root	Soybean	Agrobacterium	FALSE	5571508	5317	Agrobacterium
+4302	AIM010401	agbiome	Root	Corn	Agrobacterium	FALSE	5537980	5368	Agrobacterium
+4300	AIM010388	agbiome	Root	Corn	Agrobacterium	FALSE	5529268	5347	Agrobacterium
+4287	AIM010143	agbiome	Root	Soybean	Agrobacterium	FALSE	5582252	5234	Agrobacterium
+4164	AIM008391	agbiome	Other	Corn	Agrobacterium	FALSE	5546606	5305	Agrobacterium
+4165	AIM008397	agbiome	Other	Corn	Agrobacterium	FALSE	5477640	5201	Agrobacterium
+4096	AIM006058	agbiome	Root	Soybean	Agrobacterium	FALSE	5523771	5265	Agrobacterium
+4161	AIM008286	agbiome	Other	Corn	Agrobacterium	FALSE	5547787	5305	Agrobacterium
+4295	AIM010359	agbiome	Root	Soybean	Agrobacterium	FALSE	5577691	5245	Agrobacterium
+4088	AIM005991	agbiome	Root	Soybean	Agrobacterium	FALSE	5522308	5276	Agrobacterium
+4091	AIM006019	agbiome	Root	Soybean	Agrobacterium	FALSE	5523249	5265	Agrobacterium
+4167	AIM008460	agbiome	Other	Corn	Agrobacterium	FALSE	5542775	5317	Agrobacterium
+4533	AIM013874	agbiome	Other	Other	Agrobacterium	FALSE	5478581	5188	Agrobacterium
+4168	AIM008487	agbiome	Other	Corn	Agrobacterium	FALSE	5551385	5326	Agrobacterium
+4089	AIM006007	agbiome	Root	Soybean	Agrobacterium	FALSE	5521441	5269	Agrobacterium
+4092	AIM006020	agbiome	Root	Soybean	Agrobacterium	FALSE	5507556	5252	Agrobacterium
+4280	AIM010122	agbiome	Root	Soybean	Agrobacterium	FALSE	5563583	5292	Agrobacterium
+4166	AIM008399	agbiome	Other	Corn	Agrobacterium	FALSE	5539225	5346	Agrobacterium
+4102	AIM006756	agbiome	Root	Soybean	Agrobacterium	FALSE	5489930	5210	Agrobacterium
+4100	AIM006742	agbiome	Root	Soybean	Agrobacterium	FALSE	5491129	5214	Agrobacterium
+4223	AIM009841	agbiome	Root	Soybean	Agrobacterium	FALSE	5368347	5090	Agrobacterium
+4264	AIM009972	agbiome	Root	Soybean	Agrobacterium	FALSE	5504660	5245	Agrobacterium
+4266	AIM009974	agbiome	Root	Soybean	Agrobacterium	FALSE	5503643	5241	Agrobacterium
+4255	AIM009956	agbiome	Root	Soybean	Agrobacterium	FALSE	5504468	5249	Agrobacterium
+4216	AIM009820	agbiome	Root	Soybean	Agrobacterium	FALSE	5419406	5175	Agrobacterium
+4241	AIM009940	agbiome	Root	Soybean	Agrobacterium	FALSE	5502952	5252	Agrobacterium
+4257	AIM009960	agbiome	Root	Soybean	Agrobacterium	FALSE	5504821	5242	Agrobacterium
+4263	AIM009970	agbiome	Root	Soybean	Agrobacterium	FALSE	5499981	5248	Agrobacterium
+4209	AIM009810	agbiome	Root	Soybean	Agrobacterium	FALSE	5429653	5154	Agrobacterium
+4251	AIM009951	agbiome	Root	Soybean	Agrobacterium	FALSE	5501438	5242	Agrobacterium
+4242	AIM009941	agbiome	Root	Soybean	Agrobacterium	FALSE	5500724	5253	Agrobacterium
+4227	AIM009920	agbiome	Root	Soybean	Agrobacterium	FALSE	5500371	5249	Agrobacterium
+4234	AIM009931	agbiome	Root	Soybean	Agrobacterium	FALSE	5501926	5254	Agrobacterium
+4245	AIM009944	agbiome	Root	Soybean	Agrobacterium	FALSE	5499934	5253	Agrobacterium
+4221	AIM009834	agbiome	Root	Soybean	Agrobacterium	FALSE	5475373	5324	Agrobacterium
+4042	AIM003290	agbiome	Insect	Insect	Agrobacterium	FALSE	5423757	5191	Agrobacterium
+4282	AIM010130	agbiome	Root	Soybean	Agrobacterium	FALSE	5549016	5244	Agrobacterium
+4288	AIM010145	agbiome	Root	Soybean	Agrobacterium	FALSE	5362797	5071	Agrobacterium
+4272	AIM010098	agbiome	Root	Soybean	Agrobacterium	FALSE	5360423	5078	Agrobacterium
+4281	AIM010124	agbiome	Root	Soybean	Agrobacterium	FALSE	5364047	5079	Agrobacterium
+4317	AIM010543	agbiome	Root	Soybean	Agrobacterium	FALSE	5359834	5107	Agrobacterium
+4292	AIM010318	agbiome	Root	Soybean	Agrobacterium	FALSE	5499572	5222	Agrobacterium
+4254	AIM009955	agbiome	Root	Soybean	Agrobacterium	FALSE	5427994	5192	Agrobacterium
+4357	AIM011000	agbiome	Root	Soybean	Agrobacterium	FALSE	5056577	4723	Agrobacterium
+4389	AIM011343	agbiome	Root	Soybean	Agrobacterium	FALSE	5055407	4731	Agrobacterium
+4394	AIM011466	agbiome	Root	Soybean	Agrobacterium	FALSE	5055211	4817	Agrobacterium
+4356	AIM010996	agbiome	Root	Soybean	Agrobacterium	FALSE	5048668	4750	Agrobacterium
+4354	AIM010991	agbiome	Root	Soybean	Agrobacterium	FALSE	5050768	4743	Agrobacterium
+4377	AIM011253	agbiome	Root	Soybean	Agrobacterium	FALSE	5041553	4777	Agrobacterium
+4375	AIM011250	agbiome	Root	Soybean	Agrobacterium	FALSE	5050657	4754	Agrobacterium
+4410	AIM011789	agbiome	Root	Soybean	Agrobacterium	FALSE	5421352	5141	Agrobacterium
+4409	AIM011786	agbiome	Root	Soybean	Agrobacterium	FALSE	5418987	5174	Agrobacterium
+4411	AIM011796	agbiome	Root	Soybean	Agrobacterium	FALSE	5414039	5176	Agrobacterium
+4407	AIM011779	agbiome	Root	Soybean	Agrobacterium	FALSE	5417244	5172	Agrobacterium
+4005	AIM002074	agbiome	Root	Soybean	Agrobacterium	FALSE	5490226	5218	Agrobacterium
+4037	AIM003199	agbiome	Insect	Insect	Agrobacterium	FALSE	5412892	5117	Agrobacterium
+4309	AIM010464	agbiome	Root	Corn	Agrobacterium	FALSE	5481673	5198	Agrobacterium
+4406	AIM011777	agbiome	Root	Soybean	Agrobacterium	FALSE	5598658	5359	Agrobacterium
+4402	AIM011772	agbiome	Root	Soybean	Agrobacterium	FALSE	5599071	5375	Agrobacterium
+4401	AIM011766	agbiome	Root	Soybean	Agrobacterium	FALSE	5594999	5384	Agrobacterium
+4061	AIM004269	agbiome	Root	Soybean	Agrobacterium	FALSE	5442544	5174	Agrobacterium
+4059	AIM004239	agbiome	Root	Soybean	Agrobacterium	FALSE	5421809	5195	Agrobacterium
+4125	AIM007104	agbiome	Other	Soybean	Agrobacterium	FALSE	5425531	5158	Agrobacterium
+3006	CCNWGS0286	public	Nodule	Legume	Agrobacterium	FALSE	5212180	4882	Agrobacterium
+4395	AIM011467	agbiome	Root	Soybean	Agrobacterium	FALSE	5510787	5262	Agrobacterium
+4315	AIM010470	agbiome	Root	Corn	Agrobacterium	FALSE	5618042	5331	Agrobacterium
+4311	AIM010466	agbiome	Root	Corn	Agrobacterium	FALSE	5621549	5328	Agrobacterium
+4099	AIM006723	agbiome	Root	Soybean	Agrobacterium	FALSE	5413341	5136	Agrobacterium
+4087	AIM005874	agbiome	Root	Corn	Agrobacterium	FALSE	5476274	5245	Agrobacterium
+4316	AIM010542	agbiome	Root	Soybean	Agrobacterium	FALSE	5403618	5189	Agrobacterium
+4224	AIM009842	agbiome	Root	Soybean	Agrobacterium	FALSE	5359317	5339	Agrobacterium
+4235	AIM009932	agbiome	Root	Soybean	Agrobacterium	FALSE	5315933	5010	Agrobacterium
+4249	AIM009948	agbiome	Root	Soybean	Agrobacterium	FALSE	5313644	5017	Agrobacterium
+4265	AIM009973	agbiome	Root	Soybean	Agrobacterium	FALSE	5311984	5018	Agrobacterium
+4222	AIM009836	agbiome	Root	Soybean	Agrobacterium	FALSE	5314790	5015	Agrobacterium
+4261	AIM009968	agbiome	Root	Soybean	Agrobacterium	FALSE	5311900	5057	Agrobacterium
+4230	AIM009925	agbiome	Root	Soybean	Agrobacterium	FALSE	5308257	5033	Agrobacterium
+4229	AIM009923	agbiome	Root	Soybean	Agrobacterium	FALSE	5308769	5026	Agrobacterium
+4250	AIM009950	agbiome	Root	Soybean	Agrobacterium	FALSE	5308240	5031	Agrobacterium
+4218	AIM009823	agbiome	Root	Soybean	Agrobacterium	FALSE	5310189	5025	Agrobacterium
+4233	AIM009930	agbiome	Root	Soybean	Agrobacterium	FALSE	5305127	5034	Agrobacterium
+4098	AIM006221	agbiome	Root	Corn	Agrobacterium	FALSE	5473373	5190	Agrobacterium
+4081	AIM005616	agbiome	Root	Corn	Agrobacterium	FALSE	5469379	5237	Agrobacterium
+4086	AIM005676	agbiome	Root	Corn	Agrobacterium	FALSE	5471350	5187	Agrobacterium
+4030	AIM002792	agbiome	Root	Corn	Agrobacterium	FALSE	5541961	5205	Agrobacterium
+4011	AIM002592	agbiome	Root	Corn	Agrobacterium	FALSE	5542041	5206	Agrobacterium
+4228	AIM009921	agbiome	Root	Soybean	Agrobacterium	FALSE	5445200	5177	Agrobacterium
+4262	AIM009969	agbiome	Root	Soybean	Agrobacterium	FALSE	5444153	5407	Agrobacterium
+4215	AIM009817	agbiome	Root	Soybean	Agrobacterium	FALSE	5455772	5180	Agrobacterium
+4260	AIM009967	agbiome	Root	Soybean	Agrobacterium	FALSE	5439352	5192	Agrobacterium
+4269	AIM009977	agbiome	Root	Soybean	Agrobacterium	FALSE	5432904	5281	Agrobacterium
+4252	AIM009952	agbiome	Root	Soybean	Agrobacterium	FALSE	5430128	5168	Agrobacterium
+4256	AIM009957	agbiome	Root	Soybean	Agrobacterium	FALSE	5428505	5163	Agrobacterium
+4243	AIM009942	agbiome	Root	Soybean	Agrobacterium	FALSE	5431406	5167	Agrobacterium
+4237	AIM009935	agbiome	Root	Soybean	Agrobacterium	FALSE	5430928	5179	Agrobacterium
+4239	AIM009937	agbiome	Root	Soybean	Agrobacterium	FALSE	5428192	5169	Agrobacterium
+4238	AIM009936	agbiome	Root	Soybean	Agrobacterium	FALSE	5426409	5186	Agrobacterium
+4247	AIM009946	agbiome	Root	Soybean	Agrobacterium	FALSE	5420857	5214	Agrobacterium
+4259	AIM009966	agbiome	Root	Soybean	Agrobacterium	FALSE	5451443	5189	Agrobacterium
+4220	AIM009831	agbiome	Root	Soybean	Agrobacterium	FALSE	5451977	5204	Agrobacterium
+4253	AIM009953	agbiome	Root	Soybean	Agrobacterium	FALSE	5437705	5226	Agrobacterium
+4248	AIM009947	agbiome	Root	Soybean	Agrobacterium	FALSE	5439969	5198	Agrobacterium
+4258	AIM009965	agbiome	Root	Soybean	Agrobacterium	FALSE	5447162	5205	Agrobacterium
+4231	AIM009926	agbiome	Root	Soybean	Agrobacterium	FALSE	5433819	5209	Agrobacterium
+4268	AIM009976	agbiome	Root	Soybean	Agrobacterium	FALSE	5473171	5208	Agrobacterium
+4039	AIM003205	agbiome	Insect	Insect	Agrobacterium	FALSE	5441042	5209	Agrobacterium
+4219	AIM009830	agbiome	Root	Soybean	Agrobacterium	FALSE	5470921	5207	Agrobacterium
+4236	AIM009934	agbiome	Root	Soybean	Agrobacterium	FALSE	5433745	5210	Agrobacterium
+4145	AIM007694	agbiome	Root	Corn	Agrobacterium	FALSE	5561209	5262	Agrobacterium
+4307	AIM010462	agbiome	Root	Corn	Agrobacterium	FALSE	5532674	5217	Agrobacterium
+4144	AIM007453	agbiome	Root	Corn	Agrobacterium	FALSE	5657493	5495	Agrobacterium
+4270	AIM009978	agbiome	Root	Soybean	Agrobacterium	FALSE	5296139	4999	Agrobacterium
+4244	AIM009943	agbiome	Root	Soybean	Agrobacterium	FALSE	5294486	4990	Agrobacterium
+4271	AIM009979	agbiome	Root	Soybean	Agrobacterium	FALSE	5298949	5004	Agrobacterium
+4046	AIM003871	agbiome	Root	Soybean	Agrobacterium	FALSE	5527609	5286	Agrobacterium
+4058	AIM004152	agbiome	Root	Soybean	Agrobacterium	FALSE	5526096	5252	Agrobacterium
+4050	AIM003881	agbiome	Root	Soybean	Agrobacterium	FALSE	5527083	5258	Agrobacterium
+4052	AIM003883	agbiome	Root	Soybean	Agrobacterium	FALSE	5526156	5276	Agrobacterium
+4038	AIM003202	agbiome	Insect	Insect	Agrobacterium	FALSE	5523374	5322	Agrobacterium
+4043	AIM003307	agbiome	Leaf	Soybean	Agrobacterium	FALSE	5518934	5261	Agrobacterium
+4047	AIM003874	agbiome	Root	Soybean	Agrobacterium	FALSE	5524746	5702	Agrobacterium
+4041	AIM003248	agbiome	Insect	Insect	Agrobacterium	FALSE	5521988	5282	Agrobacterium
+4048	AIM003877	agbiome	Root	Soybean	Agrobacterium	FALSE	5519357	5254	Agrobacterium
+4049	AIM003879	agbiome	Root	Soybean	Agrobacterium	FALSE	5491486	5420	Agrobacterium
+4051	AIM003882	agbiome	Root	Soybean	Agrobacterium	FALSE	5513882	10155	Agrobacterium
+4361	AIM011069	agbiome	Root	Corn	Agrobacterium	FALSE	5530881	5263	Agrobacterium
+4097	AIM006166	agbiome	Root	Corn	Agrobacterium	FALSE	5506014	5246	Agrobacterium
+4328	AIM010654	agbiome	Root	Corn	Agrobacterium	FALSE	5525026	5288	Agrobacterium
+4070	AIM005237	agbiome	Root	Corn	Agrobacterium	FALSE	5581343	5338	Agrobacterium
+4068	AIM005216	agbiome	Root	Corn	Agrobacterium	FALSE	5544884	5377	Agrobacterium
+4370	AIM011140	agbiome	Root	Soybean	Agrobacterium	FALSE	5421309	5112	Agrobacterium
+4339	AIM010700	agbiome	Root	Soybean	Agrobacterium	FALSE	5419939	5128	Agrobacterium
+4333	AIM010689	agbiome	Root	Soybean	Agrobacterium	FALSE	5422305	8770	Agrobacterium
+4095	AIM006033	agbiome	Root	Soybean	Agrobacterium	FALSE	5614526	5388	Agrobacterium
+4072	AIM005355	agbiome	Root	Soybean	Agrobacterium	FALSE	6042694	5813	Agrobacterium
+2059	Leaf155	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	4942144	4607	Rhizobium spp.
+4579	AIM014252	agbiome	Other	Other	Rhizobium	FALSE	4876552	4527	Rhizobium spp.
+4602	AIM014377	agbiome	Other	Other	Rhizobium	FALSE	4900241	4727	Rhizobium spp.
+4303	AIM010421	agbiome	Root	Corn	Rhizobium	FALSE	5141437	4765	Rhizobium spp.
+4306	AIM010427	agbiome	Root	Corn	Rhizobium	FALSE	5138655	4758	Rhizobium spp.
+2050	Leaf202	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	4785251	4424	Rhizobium spp.
+2051	Leaf68	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	4784953	4420	Rhizobium spp.
+4082	AIM005622	agbiome	Root	Corn	Rhizobium	FALSE	5147479	4932	Rhizobium spp.
+4083	AIM005623	agbiome	Root	Corn	Rhizobium	FALSE	5149465	4981	Rhizobium spp.
+4435	AIM012529	agbiome	Other	Other	Rhizobium	FALSE	4988294	4643	Rhizobium spp.
+4433	AIM012503	agbiome	Other	Other	Rhizobium	FALSE	4990843	5958	Rhizobium spp.
+4434	AIM012526	agbiome	Other	Other	Rhizobium	FALSE	4983511	4658	Rhizobium spp.
+4811	AIM016644	agbiome	Soil	Oats	Rhizobium	FALSE	5224047	4870	Rhizobium spp.
+4054	AIM004035	agbiome	Root	Soybean	Rhizobium	FALSE	5017194	4687	Rhizobium spp.
+4517	AIM013284	agbiome	Other	Corn	Rhizobium	FALSE	4883892	4545	Rhizobium spp.
+4516	AIM013278	agbiome	Other	Corn	Rhizobium	FALSE	4598390	4436	Rhizobium spp.
+4437	AIM012608	agbiome	Root	Oats	Rhizobium	FALSE	4998830	4694	Rhizobium spp.
+2074	Root564	atsphere	Root	Arabidopsis	Rhizobium	FALSE	5187270	4839	Rhizobium spp.
+4373	AIM011151	agbiome	Root	Soybean	Rhizobium	FALSE	5125935	4757	Rhizobium spp.
+4372	AIM011147	agbiome	Root	Soybean	Rhizobium	FALSE	5125268	4757	Rhizobium spp.
+4378	AIM011272	agbiome	Root	Corn	Rhizobium	FALSE	5120396	4772	Rhizobium spp.
+4344	AIM010736	agbiome	Root	Corn	Rhizobium	FALSE	5138817	9187	Rhizobium spp.
+4597	AIM014354	agbiome	Other	Other	Rhizobium	FALSE	5017394	4649	Rhizobium spp.
+4596	AIM014317	agbiome	Other	Other	Rhizobium	FALSE	5013830	4617	Rhizobium spp.
+3016	ATCC 51759	public	Nodule	Legume	Rhizobium	FALSE	5163333	4910	Rhizobium spp.
+2052	Leaf262	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	5046934	4759	Rhizobium spp.
+4335	AIM010693	agbiome	Root	Soybean	Rhizobium	FALSE	5010025	4789	Rhizobium spp.
+4331	AIM010675	agbiome	Root	Soybean	Rhizobium	FALSE	5009535	7537	Rhizobium spp.
+3032	MEJ076	public	Nodule	Legume	Rhizobium	FALSE	5114137	4813	Rhizobium spp.
+3026	NBRC 13261	public	Nodule	Legume	Rhizobium	FALSE	5287624	4989	Rhizobium spp.
+4821	AIM017889	agbiome	Soil	Soil	Rhizobium	FALSE	5102789	4850	Rhizobium spp.
+4170	AIM008632	agbiome	Leaf	Other	Rhizobium	FALSE	5086650	4835	Rhizobium spp.
+4369	AIM011138	agbiome	Root	Soybean	Rhizobium	FALSE	5338050	5131	Rhizobium spp.
+4353	AIM010874	agbiome	Other	Other	Rhizobium	FALSE	4482466	4146	Rhizobium spp.
+4444	AIM012634	agbiome	Root	Oats	Rhizobium	FALSE	4742582	4411	Rhizobium spp.
+4423	AIM012154	agbiome	Root	Oats	Rhizobium	FALSE	4738663	4451	Rhizobium spp.
+4337	AIM010698	agbiome	Root	Soybean	Rhizobium	FALSE	4822819	4536	Rhizobium spp.
+4338	AIM010699	agbiome	Root	Soybean	Rhizobium	FALSE	4822433	4537	Rhizobium spp.
+4493	AIM013049	agbiome	Other	Corn	Rhizobium	FALSE	4636958	4308	Rhizobium spp.
+4492	AIM013047	agbiome	Other	Corn	Rhizobium	FALSE	4636838	4313	Rhizobium spp.
+4494	AIM013050	agbiome	Other	Corn	Rhizobium	FALSE	4781728	4494	Rhizobium spp.
+4495	AIM013057	agbiome	Other	Corn	Rhizobium	FALSE	4779099	4488	Rhizobium spp.
+4491	AIM013041	agbiome	Other	Corn	Rhizobium	FALSE	4641611	6077	Rhizobium spp.
+4126	AIM007106	agbiome	Other	Soybean	Rhizobium	FALSE	4961554	4744	Rhizobium spp.
+4490	AIM013036	agbiome	Other	Corn	Rhizobium	FALSE	4673194	4380	Rhizobium spp.
+4341	AIM010715	agbiome	Root	Soybean	Rhizobium	FALSE	4868921	4597	Rhizobium spp.
+3422	NT-26	public	Nodule	Legume	Rhizobium	FALSE	4577425	4453	Rhizobium spp.
+3390	R1-200B4	public	Nodule	Legume	Rhizobium	FALSE	5134606	4968	Rhizobium spp.
+3388	MGL06	public	Nodule	Legume	Rhizobium	FALSE	5050637	4908	Rhizobium spp.
+2054	Leaf306	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	5009159	4689	Rhizobium spp.
+2053	Leaf321	atsphere	Leaf	Arabidopsis	Rhizobium	FALSE	4922079	4675	Rhizobium spp.
+4352	AIM010872	agbiome	Other	Other	Rhizobium	FALSE	4915238	4650	Rhizobium spp.
+4400	AIM011723	agbiome	Root	Corn	Rhizobium	FALSE	4796895	4782	Rhizobium spp.
+4814	AIM016663	agbiome	Soil	Oats	Rhizobium	FALSE	4878472	4588	Rhizobium spp.
+4813	AIM016660	agbiome	Soil	Oats	Rhizobium	FALSE	4879592	4608	Rhizobium spp.
+4422	AIM012011	agbiome	Other	Insect	Rhizobium	FALSE	5613470	5343	Rhizobium spp.
+4183	AIM008707	agbiome	Other	Corn	Rhizobium	FALSE	6172440	5960	Rhizobium spp.
+4534	AIM013879	agbiome	Other	Other	Rhizobium	FALSE	6293153	6046	Rhizobium spp.
+4530	AIM013858	agbiome	Other	Other	Rhizobium	FALSE	6293931	6064	Rhizobium spp.
+4531	AIM013860	agbiome	Other	Other	Rhizobium	FALSE	6334059	13521	Rhizobium spp.
+4060	AIM004258	agbiome	Root	Soybean	Rhizobium	FALSE	6272358	6193	Rhizobium spp.
+4580	AIM014255	agbiome	Other	Other	Rhizobium	FALSE	5756819	5503	Rhizobium spp.
+4575	AIM014237	agbiome	Other	Other	Rhizobium	FALSE	5724037	5676	Rhizobium spp.
+4810	AIM016632	agbiome	Soil	Oats	Rhizobium	FALSE	4922283	4698	Rhizobium spp.
+4390	AIM011369	agbiome	Other	Other	Rhizobium	FALSE	5403729	5211	Rhizobium spp.
+3328	CF080	public	Nodule	Legume	Rhizobium	FALSE	7049533	6692	Rhizobium spp.
+3392	CCBAU 05176	public	Nodule	Legume	Rhizobium	FALSE	6329681	6080	Rhizobium spp.
+4329	AIM010662	agbiome	Root	Corn	Rhizobium	FALSE	7131271	6845	Rhizobium spp.
+4582	AIM014261	agbiome	Other	Other	Rhizobium	FALSE	6575763	6385	Rhizobium spp.
+4578	AIM014249	agbiome	Other	Other	Rhizobium	FALSE	6595289	9445	Rhizobium spp.
+3404	YS-1r	public	Nodule	Legume	Rhizobium	FALSE	6375689	6057	Rhizobium spp.
+4808	AIM016405	agbiome	Other	Other	Rhizobium	FALSE	5403046	5295	Rhizobium spp.
+4809	AIM016409	agbiome	Other	Other	Rhizobium	FALSE	5403123	5904	Rhizobium spp.
+4583	AIM014262	agbiome	Other	Other	Rhizobium	FALSE	5789460	5598	Rhizobium spp.
+3423	LC145	public	Nodule	Legume	Rhizobium	FALSE	5877706	5810	Rhizobium spp.
+3001	S4	public	Nodule	Legume	Rhizobium	FALSE	6320946	5781	Rhizobium spp.
+3386	ATCC 700741	public	Nodule	Legume	Rhizobium	TRUE	4133860	3724	Rhizobium spp.
+4615	AIM014482	agbiome	Other	Soybean	Rhizobium	FALSE	5623817	5404	Rhizobium spp.
+2065	Root1240	atsphere	Root	Arabidopsis	Rhizobium	FALSE	4569637	4417	Rhizobium spp.
+2078	Root274	atsphere	Root	Arabidopsis	Rhizobium	FALSE	4568197	4412	Rhizobium spp.
+4753	AIM015557	agbiome	Other	Oats	Rhizobium	FALSE	4901400	4729	Rhizobium spp.
+4751	AIM015549	agbiome	Other	Oats	Rhizobium	FALSE	5027296	4850	Rhizobium spp.
+4754	AIM015558	agbiome	Other	Oats	Rhizobium	FALSE	5025290	4859	Rhizobium spp.
+4670	AIM014783	agbiome	Other	Corn	Rhizobium	FALSE	4918144	4760	Rhizobium spp.
+4755	AIM015561	agbiome	Other	Oats	Rhizobium	FALSE	4892495	4783	Rhizobium spp.
+1000	R1607_A	mpipz	Root	Arabidopsis	Rhizobium	FALSE	5201652	4971	Rhizobium spp.
+4160	AIM007886	agbiome	Other	Corn	Rhizobium	FALSE	5041083	4766	Rhizobium spp.
+4159	AIM007885	agbiome	Other	Corn	Rhizobium	FALSE	5041082	4768	Rhizobium spp.
+3008	AOL15	public	Nodule	Legume	Rhizobium	FALSE	5077127	4825	Rhizobium spp.
+3425	AAP116	public	Nodule	Legume	Rhizobium	FALSE	4578541	4359	Rhizobium spp.
+4748	AIM015487	agbiome	Other	Wheat	Rhizobium	FALSE	4889190	5372	Rhizobium spp.
+4749	AIM015488	agbiome	Other	Wheat	Rhizobium	FALSE	4890183	4715	Rhizobium spp.
+4750	AIM015504	agbiome	Root	Cotton	Rhizobium	FALSE	4866327	4784	Rhizobium spp.
+3426	AAP43	public	Nodule	Legume	Rhizobium	FALSE	4874507	4583	Rhizobium spp.
+4397	AIM011553	agbiome	Other	Other	Rhizobium	FALSE	5481212	5206	Rhizobium spp.
+3383	ATCC BAA-1503	public	Nodule	Legume	Rhizobium	TRUE	4976687	4717	Rhizobium spp.
+4800	AIM016163	agbiome	Other	Oats	Rhizobium	TRUE	4964446	4692	Rhizobium spp.
+4798	AIM016157	agbiome	Other	Oats	Rhizobium	TRUE	4952590	4721	Rhizobium spp.
+4784	AIM015988	agbiome	Other	Rice	Rhizobium	TRUE	4846847	4573	Rhizobium spp.
+4723	AIM015235	agbiome	Other	Rice	Rhizobium	TRUE	4849264	4600	Rhizobium spp.
+4802	AIM016182	agbiome	Other	Oats	Rhizobium	TRUE	4849360	4595	Rhizobium spp.
+4727	AIM015252	agbiome	Other	Rice	Rhizobium	TRUE	4892274	4686	Rhizobium spp.
+4735	AIM015264	agbiome	Other	Rice	Rhizobium	TRUE	4855659	4603	Rhizobium spp.
+4733	AIM015262	agbiome	Other	Rice	Rhizobium	TRUE	4847174	4602	Rhizobium spp.
+4787	AIM016009	agbiome	Other	Rice	Rhizobium	TRUE	4786864	4524	Rhizobium spp.
+4786	AIM016003	agbiome	Other	Rice	Rhizobium	TRUE	4783373	4535	Rhizobium spp.
+4799	AIM016161	agbiome	Other	Oats	Rhizobium	TRUE	5470263	5202	Rhizobium spp.
+4739	AIM015277	agbiome	Other	Rice	Rhizobium	TRUE	5176148	5107	Rhizobium spp.
+4734	AIM015263	agbiome	Other	Rice	Rhizobium	TRUE	4994001	4783	Rhizobium spp.
+4732	AIM015261	agbiome	Other	Rice	Rhizobium	TRUE	5127223	4906	Rhizobium spp.
+4717	AIM015200	agbiome	Other	Rice	Rhizobium	TRUE	4950341	4716	Rhizobium spp.
+4629	AIM014527	agbiome	Other	Rice	Rhizobium	TRUE	4924662	4685	Rhizobium spp.
+4736	AIM015269	agbiome	Other	Rice	Rhizobium	TRUE	4946535	4682	Rhizobium spp.
+4726	AIM015251	agbiome	Other	Rice	Rhizobium	TRUE	4939751	4745	Rhizobium spp.
+4714	AIM015190	agbiome	Other	Rice	Rhizobium	TRUE	4926658	4681	Rhizobium spp.
+4715	AIM015191	agbiome	Other	Rice	Rhizobium	TRUE	4996710	4801	Rhizobium spp.
+4738	AIM015276	agbiome	Other	Rice	Rhizobium	TRUE	4659331	4487	Rhizobium spp.
+4729	AIM015256	agbiome	Other	Rice	Rhizobium	TRUE	4881048	4686	Rhizobium spp.
+4737	AIM015273	agbiome	Other	Rice	Rhizobium	TRUE	4838921	4699	Rhizobium spp.
+4712	AIM015177	agbiome	Other	Rice	Rhizobium	TRUE	4853862	8767	Rhizobium spp.
+4728	AIM015254	agbiome	Other	Rice	Rhizobium	TRUE	5012847	4861	Rhizobium spp.
+4785	AIM015991	agbiome	Other	Rice	Rhizobium	TRUE	5202206	5030	Rhizobium spp.
+4731	AIM015259	agbiome	Other	Rice	Rhizobium	TRUE	5131559	4997	Rhizobium spp.
+2073	Root149	atsphere	Root	Arabidopsis	Rhizobium	FALSE	5460675	5218	Rhizobium spp.
+4725	AIM015250	agbiome	Other	Rice	Rhizobium	FALSE	5058013	4826	Rhizobium spp.
+4632	AIM014538	agbiome	Other	Rice	Rhizobium	FALSE	5055348	4854	Rhizobium spp.
+4627	AIM014524	agbiome	Other	Rice	Rhizobium	FALSE	5052385	4817	Rhizobium spp.
+4718	AIM015201	agbiome	Other	Rice	Rhizobium	TRUE	5141775	4909	Rhizobium spp.
+4709	AIM015165	agbiome	Other	Rice	Rhizobium	TRUE	5141697	4900	Rhizobium spp.
